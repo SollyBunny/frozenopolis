@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "frozenopolis:block/frozen_ancient_debris_top",
+    "side": "frozenopolis:block/frozen_ancient_debris_side"
+  }
+}

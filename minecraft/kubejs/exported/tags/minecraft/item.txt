@@ -1,0 +1,3544 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 21, 2023, 6:42:55 PM
+
+#forge:cobblestone/mossy
+- minecraft:mossy_cobblestone (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:nuggets
+- #forge:nuggets/diamond (from SnowyWeaponry-1.19.2-1.5.0.jar)
+- #forge:nuggets/netherite (from SnowyWeaponry-1.19.2-1.5.0.jar)
+- #forge:nuggets/elementium (from Botania-1.19.2-437-FORGE.jar)
+- #forge:nuggets/manasteel (from Botania-1.19.2-437-FORGE.jar)
+- #forge:nuggets/terrasteel (from Botania-1.19.2-437-FORGE.jar)
+- #forge:nuggets/iron (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:nuggets/gold (from forge-1.19.2-43.2.4-universal.jar)
+- create:copper_nugget (from create-1.19.2-0.5.0.i.jar)
+- create:zinc_nugget (from create-1.19.2-0.5.0.i.jar)
+- create:brass_nugget (from create-1.19.2-0.5.0.i.jar)
+- create:experience_nugget (from create-1.19.2-0.5.0.i.jar)
+
+#forge:glass/tinted
+- minecraft:tinted_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:plates
+- create:sturdy_sheet (from create-1.19.2-0.5.0.i.jar)
+- create:copper_sheet (from create-1.19.2-0.5.0.i.jar)
+- create:brass_sheet (from create-1.19.2-0.5.0.i.jar)
+- create:iron_sheet (from create-1.19.2-0.5.0.i.jar)
+- create:golden_sheet (from create-1.19.2-0.5.0.i.jar)
+
+#forge:dyes/gray
+- minecraft:gray_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#create:stone_types/veridium
+- create:cut_veridium (from create-1.19.2-0.5.0.i.jar)
+- create:cut_veridium_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_veridium_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_veridium (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_veridium_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_veridium_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_veridium_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:cut_veridium_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_veridium_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_veridium_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:small_veridium_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_veridium_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:layered_veridium (from create-1.19.2-0.5.0.i.jar)
+- create:veridium_pillar (from create-1.19.2-0.5.0.i.jar)
+
+#botania:manasteel_ingots
+- botania:manasteel_ingot (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:gems/dragonstone
+- #botania:dragonstone_gems (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:flour
+- create:wheat_flour (from create-1.19.2-0.5.0.i.jar)
+
+#forge:axes
+- primitivestart:bone_axe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:reinforced_bone_axe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:plated_bone_axe (from primitivestart-1.19.2-1.8.0.jar)
+- minecraft:wooden_axe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:stone_axe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:iron_axe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:golden_axe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:diamond_axe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:netherite_axe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:rods/blaze
+- minecraft:blaze_rod (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/netherite
+- minecraft:netherite_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/white
+- minecraft:white_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dough/wheat
+- create:dough (from create-1.19.2-0.5.0.i.jar)
+
+#create:upright_on_belt
+- create:blaze_cake_base (from create-1.19.2-0.5.0.i.jar)
+- create:blaze_cake (from create-1.19.2-0.5.0.i.jar)
+- create:creative_blaze_cake (from create-1.19.2-0.5.0.i.jar)
+- create:builders_tea (from create-1.19.2-0.5.0.i.jar)
+- minecraft:glass_bottle (from create-1.19.2-0.5.0.i.jar)
+- minecraft:potion (from create-1.19.2-0.5.0.i.jar)
+- minecraft:splash_potion (from create-1.19.2-0.5.0.i.jar)
+- minecraft:lingering_potion (from create-1.19.2-0.5.0.i.jar)
+- minecraft:honey_bottle (from create-1.19.2-0.5.0.i.jar)
+- minecraft:cake (from create-1.19.2-0.5.0.i.jar)
+
+#forge:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#botania:floating_flowers
+- #botania:mundane_floating_flowers (from Botania-1.19.2-437-FORGE.jar)
+- #botania:special_floating_flowers (from Botania-1.19.2-437-FORGE.jar)
+
+#bookshelf:armor
+- #forge:armor (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#minecraft:wool_carpets
+- minecraft:white_carpet (from Default)
+- minecraft:orange_carpet (from Default)
+- minecraft:magenta_carpet (from Default)
+- minecraft:light_blue_carpet (from Default)
+- minecraft:yellow_carpet (from Default)
+- minecraft:lime_carpet (from Default)
+- minecraft:pink_carpet (from Default)
+- minecraft:gray_carpet (from Default)
+- minecraft:light_gray_carpet (from Default)
+- minecraft:cyan_carpet (from Default)
+- minecraft:purple_carpet (from Default)
+- minecraft:blue_carpet (from Default)
+- minecraft:brown_carpet (from Default)
+- minecraft:green_carpet (from Default)
+- minecraft:red_carpet (from Default)
+- minecraft:black_carpet (from Default)
+
+#botania:loonium_blacklist
+- botania:lexicon (from Botania-1.19.2-437-FORGE.jar)
+- botania:overgrowth_seed (from Botania-1.19.2-437-FORGE.jar)
+- botania:black_lotus (from Botania-1.19.2-437-FORGE.jar)
+- botania:blacker_lotus (from Botania-1.19.2-437-FORGE.jar)
+- #minecraft:music_discs (from Botania-1.19.2-437-FORGE.jar)
+
+#botania:mana_using_items
+- botania:blood_pendant (from Botania-1.19.2-437-FORGE.jar)
+- botania:cobble_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:crystal_bow (from Botania-1.19.2-437-FORGE.jar)
+- botania:dirt_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:diva_charm (from Botania-1.19.2-437-FORGE.jar)
+- botania:divining_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:elementium_axe (from Botania-1.19.2-437-FORGE.jar)
+- botania:elementium_boots (from Botania-1.19.2-437-FORGE.jar)
+- botania:elementium_chestplate (from Botania-1.19.2-437-FORGE.jar)
+- botania:elementium_helmet (from Botania-1.19.2-437-FORGE.jar)
+- botania:elementium_hoe (from Botania-1.19.2-437-FORGE.jar)
+- botania:elementium_leggings (from Botania-1.19.2-437-FORGE.jar)
+- botania:elementium_pickaxe (from Botania-1.19.2-437-FORGE.jar)
+- botania:elementium_shears (from Botania-1.19.2-437-FORGE.jar)
+- botania:elementium_shovel (from Botania-1.19.2-437-FORGE.jar)
+- botania:elementium_sword (from Botania-1.19.2-437-FORGE.jar)
+- botania:ender_hand (from Botania-1.19.2-437-FORGE.jar)
+- botania:exchange_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:fire_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:flight_tiara (from Botania-1.19.2-437-FORGE.jar)
+- botania:flugel_eye (from Botania-1.19.2-437-FORGE.jar)
+- botania:glass_pickaxe (from Botania-1.19.2-437-FORGE.jar)
+- botania:goddess_charm (from Botania-1.19.2-437-FORGE.jar)
+- botania:gravity_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:infinite_fruit (from Botania-1.19.2-437-FORGE.jar)
+- botania:invisibility_cloak (from Botania-1.19.2-437-FORGE.jar)
+- botania:king_key (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingwood_bow (from Botania-1.19.2-437-FORGE.jar)
+- botania:loki_ring (from Botania-1.19.2-437-FORGE.jar)
+- botania:manasteel_axe (from Botania-1.19.2-437-FORGE.jar)
+- botania:manasteel_boots (from Botania-1.19.2-437-FORGE.jar)
+- botania:manasteel_chestplate (from Botania-1.19.2-437-FORGE.jar)
+- botania:manasteel_helmet (from Botania-1.19.2-437-FORGE.jar)
+- botania:manasteel_hoe (from Botania-1.19.2-437-FORGE.jar)
+- botania:manasteel_leggings (from Botania-1.19.2-437-FORGE.jar)
+- botania:manasteel_pick (from Botania-1.19.2-437-FORGE.jar)
+- botania:manasteel_shears (from Botania-1.19.2-437-FORGE.jar)
+- botania:manasteel_shovel (from Botania-1.19.2-437-FORGE.jar)
+- botania:manasteel_sword (from Botania-1.19.2-437-FORGE.jar)
+- botania:manaweave_boots (from Botania-1.19.2-437-FORGE.jar)
+- botania:manaweave_chestplate (from Botania-1.19.2-437-FORGE.jar)
+- botania:manaweave_helmet (from Botania-1.19.2-437-FORGE.jar)
+- botania:manaweave_leggings (from Botania-1.19.2-437-FORGE.jar)
+- botania:mining_ring (from Botania-1.19.2-437-FORGE.jar)
+- botania:missile_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:rainbow_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:skydirt_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:smelt_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:star_sword (from Botania-1.19.2-437-FORGE.jar)
+- botania:super_travel_belt (from Botania-1.19.2-437-FORGE.jar)
+- botania:terra_axe (from Botania-1.19.2-437-FORGE.jar)
+- botania:terra_pick (from Botania-1.19.2-437-FORGE.jar)
+- botania:terra_sword (from Botania-1.19.2-437-FORGE.jar)
+- botania:terraform_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:terrasteel_boots (from Botania-1.19.2-437-FORGE.jar)
+- botania:terrasteel_chestplate (from Botania-1.19.2-437-FORGE.jar)
+- botania:terrasteel_helmet (from Botania-1.19.2-437-FORGE.jar)
+- botania:terrasteel_leggings (from Botania-1.19.2-437-FORGE.jar)
+- botania:third_eye (from Botania-1.19.2-437-FORGE.jar)
+- botania:thunder_sword (from Botania-1.19.2-437-FORGE.jar)
+- botania:tornado_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:travel_belt (from Botania-1.19.2-437-FORGE.jar)
+- botania:water_ring (from Botania-1.19.2-437-FORGE.jar)
+- botania:water_rod (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:glass/pink
+- minecraft:pink_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:chests
+- #forge:chests/ender (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:chests/trapped (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:chests/wooden (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/emerald
+- minecraft:emerald_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ores/redstone
+- #minecraft:redstone_ores (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass/red
+- minecraft:red_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ender_pearls
+- minecraft:ender_pearl (from forge-1.19.2-43.2.4-universal.jar)
+
+#libx:impl_wooden_stairs
+
+#forge:cobblestone/deepslate
+- minecraft:cobbled_deepslate (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/green
+- minecraft:green_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#libx:impl_fences
+
+#forge:chests/trapped
+- minecraft:trapped_chest (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:fence_gates
+- #forge:fence_gates/wooden (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ingots
+- #forge:ingots/elementium (from Botania-1.19.2-437-FORGE.jar)
+- #forge:ingots/manasteel (from Botania-1.19.2-437-FORGE.jar)
+- #forge:ingots/terrasteel (from Botania-1.19.2-437-FORGE.jar)
+- #forge:ingots/brick (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ingots/copper (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ingots/gold (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ingots/iron (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ingots/netherite (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ingots/nether_brick (from forge-1.19.2-43.2.4-universal.jar)
+- #create:create_ingots (from create-1.19.2-0.5.0.i.jar)
+
+#forge:nuggets/terrasteel
+- #botania:terrasteel_nuggets (from Botania-1.19.2-437-FORGE.jar)
+
+#ftbchunks:right_click_whitelist
+- minecraft:shield (from ftb-chunks-forge-1902.3.15-build.233.jar)
+- minecraft:firework_rocket (from ftb-chunks-forge-1902.3.15-build.233.jar)
+- minecraft:map (from ftb-chunks-forge-1902.3.15-build.233.jar)
+
+#forge:crops/nether_wart
+- minecraft:nether_wart (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:sandstone
+- minecraft:sandstone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:cut_sandstone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:chiseled_sandstone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:smooth_sandstone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:red_sandstone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:cut_red_sandstone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:chiseled_red_sandstone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:smooth_red_sandstone (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/copper
+- minecraft:copper_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/colorless
+- minecraft:glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:coals
+- minecraft:coal (from Default)
+- minecraft:charcoal (from Default)
+
+#minecraft:piglin_food
+- minecraft:porkchop (from Default)
+- minecraft:cooked_porkchop (from Default)
+
+#forge:ingots/nether_brick
+- minecraft:nether_brick (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:pickaxes
+- primitivestart:bone_pickaxe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:reinforced_bone_pickaxe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:plated_bone_pickaxe (from primitivestart-1.19.2-1.8.0.jar)
+- minecraft:wooden_pickaxe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:stone_pickaxe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:iron_pickaxe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:golden_pickaxe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:diamond_pickaxe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:netherite_pickaxe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:cobblestone/infested
+- minecraft:infested_cobblestone (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/lapis
+- minecraft:lapis_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:beds
+- minecraft:red_bed (from Default)
+- minecraft:black_bed (from Default)
+- minecraft:blue_bed (from Default)
+- minecraft:brown_bed (from Default)
+- minecraft:cyan_bed (from Default)
+- minecraft:gray_bed (from Default)
+- minecraft:green_bed (from Default)
+- minecraft:light_blue_bed (from Default)
+- minecraft:light_gray_bed (from Default)
+- minecraft:lime_bed (from Default)
+- minecraft:magenta_bed (from Default)
+- minecraft:orange_bed (from Default)
+- minecraft:pink_bed (from Default)
+- minecraft:purple_bed (from Default)
+- minecraft:white_bed (from Default)
+- minecraft:yellow_bed (from Default)
+
+#forge:armors/helmets
+- minecraft:leather_helmet (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:turtle_helmet (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:chainmail_helmet (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_helmet (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_helmet (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_helmet (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_helmet (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ores/diamond
+- #minecraft:diamond_ores (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:doors
+- #minecraft:wooden_doors (from Default)
+- minecraft:iron_door (from Default)
+- #libx:impl_doors (from LibX-1.19.2-4.2.8.jar)
+- create:train_door (from create-1.19.2-0.5.0.i.jar)
+- create:framed_glass_door (from create-1.19.2-0.5.0.i.jar)
+
+#botania:petals/red
+- botania:red_petal (from Botania-1.19.2-437-FORGE.jar)
+- botania:red_mushroom (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:ore_rates/dense
+- minecraft:copper_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_copper_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_lapis_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_redstone_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:lapis_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:redstone_ore (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dyes/orange
+- minecraft:orange_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#bookshelf:clocks
+- #forge:clocks (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#create:stone_types/granite
+- create:cut_granite (from create-1.19.2-0.5.0.i.jar)
+- create:cut_granite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_granite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_granite (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_granite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_granite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_granite_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:cut_granite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_granite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_granite_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:small_granite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_granite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:layered_granite (from create-1.19.2-0.5.0.i.jar)
+- create:granite_pillar (from create-1.19.2-0.5.0.i.jar)
+
+#forge:shields
+- minecraft:shield (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:glass/white
+- minecraft:white_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#bookshelf:swords
+- #forge:swords (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#minecraft:signs
+- minecraft:oak_sign (from Default)
+- minecraft:spruce_sign (from Default)
+- minecraft:birch_sign (from Default)
+- minecraft:acacia_sign (from Default)
+- minecraft:jungle_sign (from Default)
+- minecraft:dark_oak_sign (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+- minecraft:mangrove_sign (from Default)
+- #libx:impl_signs (from LibX-1.19.2-4.2.8.jar)
+
+#forge:glass_panes/red
+- minecraft:red_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#bookshelf:axes
+- #forge:axes (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#botania:mundane_floating_flowers
+- botania:black_floating_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:blue_floating_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:brown_floating_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:cyan_floating_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:gray_floating_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:green_floating_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:light_blue_floating_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:light_gray_floating_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:lime_floating_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:magenta_floating_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:orange_floating_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:pink_floating_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:purple_floating_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:red_floating_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:white_floating_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:yellow_floating_flower (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:fishes
+- minecraft:cod (from Default)
+- minecraft:cooked_cod (from Default)
+- minecraft:salmon (from Default)
+- minecraft:cooked_salmon (from Default)
+- minecraft:pufferfish (from Default)
+- minecraft:tropical_fish (from Default)
+
+#botania:petals/yellow
+- botania:yellow_petal (from Botania-1.19.2-437-FORGE.jar)
+- botania:yellow_mushroom (from Botania-1.19.2-437-FORGE.jar)
+
+#bookshelf:slime_balls
+- #forge:slimeballs (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:tools/shields
+- minecraft:shield (from forge-1.19.2-43.2.4-universal.jar)
+
+#botania:petals/light_gray
+- botania:light_gray_petal (from Botania-1.19.2-437-FORGE.jar)
+- botania:light_gray_mushroom (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:cobblestone/normal
+- minecraft:cobblestone (from forge-1.19.2-43.2.4-universal.jar)
+
+#botania:mini_flowers
+- botania:agricarnation_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:bellethorn_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:bubbell_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:clayconia_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:hopperhock_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:jiyuulia_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:marimorphosis_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:rannuncarpus_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:solegnolia_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:tangleberrie_chibi (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:sand/colorless
+- minecraft:sand (from forge-1.19.2-43.2.4-universal.jar)
+
+#bookshelf:shields
+- #forge:shields (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#minecraft:redstone_ores
+- minecraft:redstone_ore (from Default)
+- minecraft:deepslate_redstone_ore (from Default)
+
+#forge:raw_materials/iron
+- minecraft:raw_iron (from forge-1.19.2-43.2.4-universal.jar)
+
+#botania:glimmering_dreamwood_logs
+- botania:glimmering_dreamwood (from Botania-1.19.2-437-FORGE.jar)
+- botania:glimmering_dreamwood_log (from Botania-1.19.2-437-FORGE.jar)
+- botania:glimmering_stripped_dreamwood (from Botania-1.19.2-437-FORGE.jar)
+- botania:glimmering_stripped_dreamwood_log (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:boots
+- minecraft:leather_boots (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:chainmail_boots (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:iron_boots (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:golden_boots (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:diamond_boots (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:netherite_boots (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#bookshelf:pickaxes
+- #forge:pickaxes (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#create:vanilla_stripped_logs
+- minecraft:stripped_acacia_log (from create-1.19.2-0.5.0.i.jar)
+- minecraft:stripped_birch_log (from create-1.19.2-0.5.0.i.jar)
+- minecraft:stripped_crimson_stem (from create-1.19.2-0.5.0.i.jar)
+- minecraft:stripped_dark_oak_log (from create-1.19.2-0.5.0.i.jar)
+- minecraft:stripped_jungle_log (from create-1.19.2-0.5.0.i.jar)
+- minecraft:stripped_mangrove_log (from create-1.19.2-0.5.0.i.jar)
+- minecraft:stripped_oak_log (from create-1.19.2-0.5.0.i.jar)
+- minecraft:stripped_spruce_log (from create-1.19.2-0.5.0.i.jar)
+- minecraft:stripped_warped_stem (from create-1.19.2-0.5.0.i.jar)
+
+#forge:nuggets/brass
+- create:brass_nugget (from create-1.19.2-0.5.0.i.jar)
+
+#create:modded_stripped_wood
+- ars_nouveau:stripped_blue_archwood_wood? (from create-1.19.2-0.5.0.i.jar)
+- ars_nouveau:stripped_purple_archwood_wood? (from create-1.19.2-0.5.0.i.jar)
+- ars_nouveau:stripped_green_archwood_wood? (from create-1.19.2-0.5.0.i.jar)
+- ars_nouveau:stripped_red_archwood_wood? (from create-1.19.2-0.5.0.i.jar)
+- botania:stripped_livingwood? (from create-1.19.2-0.5.0.i.jar)
+- botania:stripped_dreamwood? (from create-1.19.2-0.5.0.i.jar)
+- forbidden_arcanus:stripped_cherrywood? (from create-1.19.2-0.5.0.i.jar)
+- forbidden_arcanus:stripped_mysterywood? (from create-1.19.2-0.5.0.i.jar)
+- hexcasting:akashic_wood_stripped? (from create-1.19.2-0.5.0.i.jar)
+- integrateddynamics:menril_wood_stripped? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_aspen_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_baobab_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_enchanted_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_cherry_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_cika_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_cypress_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_ebony_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_ether_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_fir_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_green_enchanted_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_holly_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_jacaranda_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_lament_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_mahogany_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_mangrove_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_maple_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_nightshade_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_palm_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_palo_verde_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_pine_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_rainbow_eucalyptus_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_redwood_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_skyris_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_willow_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_witch_hazel_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_zelkova_wood? (from create-1.19.2-0.5.0.i.jar)
+- silentgear:stripped_netherwood_wood? (from create-1.19.2-0.5.0.i.jar)
+- twilightforest:stripped_twilight_oak_wood? (from create-1.19.2-0.5.0.i.jar)
+- twilightforest:stripped_canopy_wood? (from create-1.19.2-0.5.0.i.jar)
+- twilightforest:stripped_mangrove_wood? (from create-1.19.2-0.5.0.i.jar)
+- twilightforest:stripped_dark_wood? (from create-1.19.2-0.5.0.i.jar)
+- twilightforest:stripped_time_wood? (from create-1.19.2-0.5.0.i.jar)
+- twilightforest:stripped_transformation_wood? (from create-1.19.2-0.5.0.i.jar)
+- twilightforest:stripped_mining_wood? (from create-1.19.2-0.5.0.i.jar)
+- twilightforest:stripped_sorting_wood? (from create-1.19.2-0.5.0.i.jar)
+- tconstruct:stripped_greenheart_wood? (from create-1.19.2-0.5.0.i.jar)
+- tconstruct:stripped_skyroot_wood? (from create-1.19.2-0.5.0.i.jar)
+- tconstruct:stripped_bloodshroom_wood? (from create-1.19.2-0.5.0.i.jar)
+- architects_palette:stripped_twisted_wood? (from create-1.19.2-0.5.0.i.jar)
+- quark:stripped_azalea_wood? (from create-1.19.2-0.5.0.i.jar)
+- quark:stripped_blossom_wood? (from create-1.19.2-0.5.0.i.jar)
+- ecologics:stripped_coconut_wood? (from create-1.19.2-0.5.0.i.jar)
+- ecologics:stripped_walnut_wood? (from create-1.19.2-0.5.0.i.jar)
+- ecologics:stripped_azalea_wood? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_fir_wood? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_redwood_wood? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_cherry_wood? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_mahogany_wood? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_jacaranda_wood? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_palm_wood? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_willow_wood? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_dead_wood? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_magic_wood? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_umbran_wood? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_hellbark_wood? (from create-1.19.2-0.5.0.i.jar)
+- blue_skies:stripped_bluebright_wood? (from create-1.19.2-0.5.0.i.jar)
+- blue_skies:stripped_starlit_wood? (from create-1.19.2-0.5.0.i.jar)
+- blue_skies:stripped_frostbright_wood? (from create-1.19.2-0.5.0.i.jar)
+- blue_skies:stripped_lunar_wood? (from create-1.19.2-0.5.0.i.jar)
+- blue_skies:stripped_dusk_wood? (from create-1.19.2-0.5.0.i.jar)
+- blue_skies:stripped_maple_wood? (from create-1.19.2-0.5.0.i.jar)
+- blue_skies:stripped_cherry_wood? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_bulbis_wood? (from create-1.19.2-0.5.0.i.jar)
+
+#botania:terrasteel_nuggets
+- botania:terrasteel_nugget (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:swords
+- primitivestart:bone_sword (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:reinforced_bone_sword (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:plated_bone_sword (from primitivestart-1.19.2-1.8.0.jar)
+- minecraft:wooden_sword (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:stone_sword (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:iron_sword (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:golden_sword (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:diamond_sword (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:netherite_sword (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:armors
+- #forge:armors/helmets (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:armors/chestplates (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:armors/leggings (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:armors/boots (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:gems/diamond
+- minecraft:diamond (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:walls
+- minecraft:cobblestone_wall (from Default)
+- minecraft:mossy_cobblestone_wall (from Default)
+- minecraft:brick_wall (from Default)
+- minecraft:prismarine_wall (from Default)
+- minecraft:red_sandstone_wall (from Default)
+- minecraft:mossy_stone_brick_wall (from Default)
+- minecraft:granite_wall (from Default)
+- minecraft:stone_brick_wall (from Default)
+- minecraft:nether_brick_wall (from Default)
+- minecraft:andesite_wall (from Default)
+- minecraft:red_nether_brick_wall (from Default)
+- minecraft:sandstone_wall (from Default)
+- minecraft:end_stone_brick_wall (from Default)
+- minecraft:diorite_wall (from Default)
+- minecraft:blackstone_wall (from Default)
+- minecraft:polished_blackstone_brick_wall (from Default)
+- minecraft:polished_blackstone_wall (from Default)
+- minecraft:cobbled_deepslate_wall (from Default)
+- minecraft:polished_deepslate_wall (from Default)
+- minecraft:deepslate_tile_wall (from Default)
+- minecraft:deepslate_brick_wall (from Default)
+- minecraft:mud_brick_wall (from Default)
+- botania:corporea_brick_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:dreamwood_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingrock_bricks_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingrock_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingwood_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_desert_bricks_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_desert_cobblestone_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_desert_stone_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_forest_bricks_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_forest_cobblestone_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_forest_stone_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_fungal_bricks_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_fungal_cobblestone_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_fungal_stone_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mesa_bricks_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mesa_cobblestone_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mesa_stone_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mountain_bricks_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mountain_cobblestone_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mountain_stone_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_plains_bricks_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_plains_cobblestone_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_plains_stone_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_swamp_bricks_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_swamp_cobblestone_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_swamp_stone_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_taiga_bricks_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_taiga_cobblestone_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_taiga_stone_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:mossy_livingrock_bricks_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:polished_livingrock_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:stripped_dreamwood_wall (from Botania-1.19.2-437-FORGE.jar)
+- botania:stripped_livingwood_wall (from Botania-1.19.2-437-FORGE.jar)
+- #libx:impl_walls (from LibX-1.19.2-4.2.8.jar)
+- create:cut_granite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_granite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_granite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_granite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_diorite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_diorite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_diorite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_diorite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_andesite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_andesite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_andesite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_andesite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_calcite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_calcite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_calcite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_calcite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_dripstone_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_dripstone_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_dripstone_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_dripstone_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_deepslate_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_deepslate_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_deepslate_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_deepslate_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_tuff_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_tuff_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_tuff_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_tuff_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_asurine_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_asurine_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_asurine_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_asurine_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_crimsite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_crimsite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_crimsite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_crimsite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_limestone_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_limestone_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_limestone_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_limestone_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_ochrum_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_ochrum_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_ochrum_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_ochrum_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scoria_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_scoria_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scoria_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_scoria_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scorchia_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_scorchia_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scorchia_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_scorchia_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_veridium_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_veridium_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_veridium_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_veridium_brick_wall (from create-1.19.2-0.5.0.i.jar)
+
+#botania:petals/pink
+- botania:pink_petal (from Botania-1.19.2-437-FORGE.jar)
+- botania:pink_mushroom (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:dusts/mana
+- #botania:mana_dusts (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:glass/green
+- minecraft:green_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#itemfilters:filters
+- itemfilters:always_true (from item-filters-forge-1902.2.9-build.46.jar)
+- itemfilters:always_false (from item-filters-forge-1902.2.9-build.46.jar)
+- itemfilters:or (from item-filters-forge-1902.2.9-build.46.jar)
+- itemfilters:and (from item-filters-forge-1902.2.9-build.46.jar)
+- itemfilters:not (from item-filters-forge-1902.2.9-build.46.jar)
+- itemfilters:xor (from item-filters-forge-1902.2.9-build.46.jar)
+- itemfilters:tag (from item-filters-forge-1902.2.9-build.46.jar)
+- itemfilters:mod (from item-filters-forge-1902.2.9-build.46.jar)
+- itemfilters:item_group (from item-filters-forge-1902.2.9-build.46.jar)
+- itemfilters:id_regex (from item-filters-forge-1902.2.9-build.46.jar)
+- itemfilters:damage (from item-filters-forge-1902.2.9-build.46.jar)
+- itemfilters:block (from item-filters-forge-1902.2.9-build.46.jar)
+- itemfilters:max_count (from item-filters-forge-1902.2.9-build.46.jar)
+- itemfilters:strong_nbt (from item-filters-forge-1902.2.9-build.46.jar)
+- itemfilters:weak_nbt (from item-filters-forge-1902.2.9-build.46.jar)
+- itemfilters:custom (from item-filters-forge-1902.2.9-build.46.jar)
+
+#botania:terrasteel_blocks
+- botania:terrasteel_block (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs (from Default)
+- minecraft:music_disc_pigstep (from Default)
+- minecraft:music_disc_otherside (from Default)
+- minecraft:music_disc_5 (from Default)
+- botania:record_gaia_1 (from Botania-1.19.2-437-FORGE.jar)
+- botania:record_gaia_2 (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:clocks
+- minecraft:clock (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#botania:manasteel_nuggets
+- botania:manasteel_nugget (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:gems
+- #forge:gems/dragonstone (from Botania-1.19.2-437-FORGE.jar)
+- #forge:gems/mana_diamond (from Botania-1.19.2-437-FORGE.jar)
+- #forge:gems/amethyst (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:gems/diamond (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:gems/emerald (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:gems/lapis (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:gems/prismarine (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:gems/quartz (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:sand
+- minecraft:sand (from Default)
+- minecraft:red_sand (from Default)
+
+#forge:end_stones
+- minecraft:end_stone (from forge-1.19.2-43.2.4-universal.jar)
+
+#snowmancy:stained_glass
+- minecraft:white_stained_glass (from snowmancy-1.19.2-1.1.jar)
+- minecraft:orange_stained_glass (from snowmancy-1.19.2-1.1.jar)
+- minecraft:magenta_stained_glass (from snowmancy-1.19.2-1.1.jar)
+- minecraft:light_blue_stained_glass (from snowmancy-1.19.2-1.1.jar)
+- minecraft:yellow_stained_glass (from snowmancy-1.19.2-1.1.jar)
+- minecraft:lime_stained_glass (from snowmancy-1.19.2-1.1.jar)
+- minecraft:pink_stained_glass (from snowmancy-1.19.2-1.1.jar)
+- minecraft:gray_stained_glass (from snowmancy-1.19.2-1.1.jar)
+- minecraft:light_gray_stained_glass (from snowmancy-1.19.2-1.1.jar)
+- minecraft:cyan_stained_glass (from snowmancy-1.19.2-1.1.jar)
+- minecraft:purple_stained_glass (from snowmancy-1.19.2-1.1.jar)
+- minecraft:blue_stained_glass (from snowmancy-1.19.2-1.1.jar)
+- minecraft:brown_stained_glass (from snowmancy-1.19.2-1.1.jar)
+- minecraft:green_stained_glass (from snowmancy-1.19.2-1.1.jar)
+- minecraft:red_stained_glass (from snowmancy-1.19.2-1.1.jar)
+- minecraft:black_stained_glass (from snowmancy-1.19.2-1.1.jar)
+
+#forge:storage_blocks/terrasteel
+- #botania:terrasteel_blocks (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:fences/wooden
+- #minecraft:wooden_fences (from forge-1.19.2-43.2.4-universal.jar)
+
+#bookshelf:mob_buckets
+- #forge:mob_buckets (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#create:stone_types/diorite
+- create:cut_diorite (from create-1.19.2-0.5.0.i.jar)
+- create:cut_diorite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_diorite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_diorite (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_diorite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_diorite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_diorite_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:cut_diorite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_diorite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_diorite_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:small_diorite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_diorite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:layered_diorite (from create-1.19.2-0.5.0.i.jar)
+- create:diorite_pillar (from create-1.19.2-0.5.0.i.jar)
+
+#forge:dyes/light_gray
+- minecraft:light_gray_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks
+- #forge:storage_blocks/elementium (from Botania-1.19.2-437-FORGE.jar)
+- #forge:storage_blocks/manasteel (from Botania-1.19.2-437-FORGE.jar)
+- #forge:storage_blocks/terrasteel (from Botania-1.19.2-437-FORGE.jar)
+- #forge:storage_blocks/amethyst (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/coal (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/copper (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/diamond (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/emerald (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/gold (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/iron (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/lapis (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/quartz (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/raw_copper (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/raw_gold (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/raw_iron (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/redstone (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/netherite (from forge-1.19.2-43.2.4-universal.jar)
+- create:raw_zinc_block (from create-1.19.2-0.5.0.i.jar)
+- create:zinc_block (from create-1.19.2-0.5.0.i.jar)
+- create:brass_block (from create-1.19.2-0.5.0.i.jar)
+
+#forge:glass_panes/orange
+- minecraft:orange_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot (from Default)
+- minecraft:emerald (from Default)
+- minecraft:diamond (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:iron_ingot (from Default)
+- #create:create_ingots (from create-1.19.2-0.5.0.i.jar)
+
+#forge:ingots/copper
+- minecraft:copper_ingot (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ores/quartz
+- minecraft:nether_quartz_ore (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ingots/brick
+- minecraft:brick (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass/blue
+- minecraft:blue_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:coal_ores
+- minecraft:coal_ore (from Default)
+- minecraft:deepslate_coal_ore (from Default)
+
+#create:stone_types/scorchia
+- create:cut_scorchia (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scorchia_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scorchia_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_scorchia (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_scorchia_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_scorchia_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scorchia_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scorchia_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scorchia_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_scorchia_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:small_scorchia_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_scorchia_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:layered_scorchia (from create-1.19.2-0.5.0.i.jar)
+- create:scorchia_pillar (from create-1.19.2-0.5.0.i.jar)
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor (from Default)
+- minecraft:birch_trapdoor (from Default)
+- minecraft:dark_oak_trapdoor (from Default)
+- minecraft:jungle_trapdoor (from Default)
+- minecraft:oak_trapdoor (from Default)
+- minecraft:spruce_trapdoor (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:mangrove_trapdoor (from Default)
+- #libx:impl_wooden_trapdoors (from LibX-1.19.2-4.2.8.jar)
+
+#create:valve_handles
+- create:copper_valve_handle (from create-1.19.2-0.5.0.i.jar)
+- create:white_valve_handle (from create-1.19.2-0.5.0.i.jar)
+- create:orange_valve_handle (from create-1.19.2-0.5.0.i.jar)
+- create:magenta_valve_handle (from create-1.19.2-0.5.0.i.jar)
+- create:light_blue_valve_handle (from create-1.19.2-0.5.0.i.jar)
+- create:yellow_valve_handle (from create-1.19.2-0.5.0.i.jar)
+- create:lime_valve_handle (from create-1.19.2-0.5.0.i.jar)
+- create:pink_valve_handle (from create-1.19.2-0.5.0.i.jar)
+- create:gray_valve_handle (from create-1.19.2-0.5.0.i.jar)
+- create:light_gray_valve_handle (from create-1.19.2-0.5.0.i.jar)
+- create:cyan_valve_handle (from create-1.19.2-0.5.0.i.jar)
+- create:purple_valve_handle (from create-1.19.2-0.5.0.i.jar)
+- create:blue_valve_handle (from create-1.19.2-0.5.0.i.jar)
+- create:brown_valve_handle (from create-1.19.2-0.5.0.i.jar)
+- create:green_valve_handle (from create-1.19.2-0.5.0.i.jar)
+- create:red_valve_handle (from create-1.19.2-0.5.0.i.jar)
+- create:black_valve_handle (from create-1.19.2-0.5.0.i.jar)
+
+#forge:storage_blocks/coal
+- minecraft:coal_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass/light_blue
+- minecraft:light_blue_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:nuggets/elementium
+- #botania:elementium_nuggets (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:ingots/brass
+- create:brass_ingot (from create-1.19.2-0.5.0.i.jar)
+
+#botania:special_floating_flowers
+- botania:floating_agricarnation (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_agricarnation_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_bellethorn (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_bellethorn_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_bergamute (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_bubbell (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_bubbell_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_clayconia (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_clayconia_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_daffomill (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_dandelifeon (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_dreadthorn (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_endoflame (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_entropinnyum (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_exoflame (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_fallen_kanade (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_gourmaryllis (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_heisei_dream (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_hopperhock (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_hopperhock_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_hyacidus (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_hydroangeas (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_jaded_amaranthus (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_jiyuulia (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_jiyuulia_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_kekimurus (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_labellia (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_loonium (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_manastar (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_marimorphosis (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_marimorphosis_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_medumone (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_munchdew (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_narslimmus (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_orechid (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_orechid_ignem (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_pollidisiac (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_pure_daisy (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_rafflowsia (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_rannuncarpus (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_rannuncarpus_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_rosa_arcana (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_shulk_me_not (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_solegnolia (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_solegnolia_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_spectranthemum (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_spectrolus (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_tangleberrie (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_tangleberrie_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_thermalily (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_tigerseye (from Botania-1.19.2-437-FORGE.jar)
+- botania:floating_vinculotus (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:storage_blocks/redstone
+- minecraft:redstone_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/amethyst
+- minecraft:amethyst_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:stairs
+- #minecraft:wooden_stairs (from Default)
+- minecraft:cobblestone_stairs (from Default)
+- minecraft:sandstone_stairs (from Default)
+- minecraft:nether_brick_stairs (from Default)
+- minecraft:stone_brick_stairs (from Default)
+- minecraft:brick_stairs (from Default)
+- minecraft:purpur_stairs (from Default)
+- minecraft:quartz_stairs (from Default)
+- minecraft:red_sandstone_stairs (from Default)
+- minecraft:prismarine_brick_stairs (from Default)
+- minecraft:prismarine_stairs (from Default)
+- minecraft:dark_prismarine_stairs (from Default)
+- minecraft:polished_granite_stairs (from Default)
+- minecraft:smooth_red_sandstone_stairs (from Default)
+- minecraft:mossy_stone_brick_stairs (from Default)
+- minecraft:polished_diorite_stairs (from Default)
+- minecraft:mossy_cobblestone_stairs (from Default)
+- minecraft:end_stone_brick_stairs (from Default)
+- minecraft:stone_stairs (from Default)
+- minecraft:smooth_sandstone_stairs (from Default)
+- minecraft:smooth_quartz_stairs (from Default)
+- minecraft:granite_stairs (from Default)
+- minecraft:andesite_stairs (from Default)
+- minecraft:red_nether_brick_stairs (from Default)
+- minecraft:polished_andesite_stairs (from Default)
+- minecraft:diorite_stairs (from Default)
+- minecraft:blackstone_stairs (from Default)
+- minecraft:polished_blackstone_brick_stairs (from Default)
+- minecraft:polished_blackstone_stairs (from Default)
+- minecraft:cobbled_deepslate_stairs (from Default)
+- minecraft:polished_deepslate_stairs (from Default)
+- minecraft:deepslate_tile_stairs (from Default)
+- minecraft:deepslate_brick_stairs (from Default)
+- minecraft:oxidized_cut_copper_stairs (from Default)
+- minecraft:weathered_cut_copper_stairs (from Default)
+- minecraft:exposed_cut_copper_stairs (from Default)
+- minecraft:cut_copper_stairs (from Default)
+- minecraft:waxed_weathered_cut_copper_stairs (from Default)
+- minecraft:waxed_exposed_cut_copper_stairs (from Default)
+- minecraft:waxed_cut_copper_stairs (from Default)
+- minecraft:waxed_oxidized_cut_copper_stairs (from Default)
+- minecraft:mud_brick_stairs (from Default)
+- botania:black_pavement_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:blaze_quartz_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:blue_pavement_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:corporea_brick_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:corporea_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:dark_quartz_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:dreamwood_planks_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:dreamwood_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:elf_quartz_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:green_pavement_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:lavender_quartz_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingrock_bricks_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingrock_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingwood_planks_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingwood_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:mana_quartz_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_desert_bricks_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_desert_cobblestone_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_desert_stone_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_forest_bricks_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_forest_cobblestone_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_forest_stone_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_fungal_bricks_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_fungal_cobblestone_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_fungal_stone_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mesa_bricks_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mesa_cobblestone_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mesa_stone_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mountain_bricks_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mountain_cobblestone_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mountain_stone_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_plains_bricks_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_plains_cobblestone_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_plains_stone_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_swamp_bricks_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_swamp_cobblestone_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_swamp_stone_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_taiga_bricks_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_taiga_cobblestone_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_taiga_stone_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:mossy_livingrock_bricks_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:polished_livingrock_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:red_pavement_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:red_quartz_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:shimmerrock_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:shimmerwood_planks_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:stripped_dreamwood_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:stripped_livingwood_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:sunny_quartz_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:white_pavement_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:yellow_pavement_stairs (from Botania-1.19.2-437-FORGE.jar)
+- #libx:impl_stairs (from LibX-1.19.2-4.2.8.jar)
+- create:cut_granite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_granite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_granite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_granite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_diorite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_diorite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_diorite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_diorite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_andesite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_andesite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_andesite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_andesite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_calcite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_calcite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_calcite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_calcite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_dripstone_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_dripstone_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_dripstone_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_dripstone_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_deepslate_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_deepslate_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_deepslate_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_deepslate_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_tuff_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_tuff_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_tuff_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_tuff_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_asurine_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_asurine_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_asurine_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_asurine_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_crimsite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_crimsite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_crimsite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_crimsite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_limestone_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_limestone_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_limestone_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_limestone_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_ochrum_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_ochrum_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_ochrum_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_ochrum_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scoria_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_scoria_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scoria_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_scoria_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scorchia_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_scorchia_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scorchia_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_scorchia_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_veridium_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_veridium_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_veridium_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_veridium_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+
+#minecraft:logs
+- #minecraft:logs_that_burn (from Default)
+- #minecraft:crimson_stems (from Default)
+- #minecraft:warped_stems (from Default)
+
+#libx:impl_wooden_buttons
+
+#forge:raw_materials/gold
+- minecraft:raw_gold (from forge-1.19.2-43.2.4-universal.jar)
+
+#create:stone_types/andesite
+- create:cut_andesite (from create-1.19.2-0.5.0.i.jar)
+- create:cut_andesite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_andesite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_andesite (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_andesite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_andesite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_andesite_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:cut_andesite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_andesite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_andesite_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:small_andesite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_andesite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:layered_andesite (from create-1.19.2-0.5.0.i.jar)
+- create:andesite_pillar (from create-1.19.2-0.5.0.i.jar)
+
+#botania:terrasteel_ingots
+- botania:terrasteel_ingot (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:compasses
+- minecraft:compass (from Default)
+- minecraft:recovery_compass (from Default)
+
+#minecraft:arrows
+- minecraft:arrow (from Default)
+- minecraft:tipped_arrow (from Default)
+- minecraft:spectral_arrow (from Default)
+- primitivestart:bone_arrow (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:reinforced_bone_arrow (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:plated_bone_arrow (from primitivestart-1.19.2-1.8.0.jar)
+
+#botania:petals/black
+- botania:black_petal (from Botania-1.19.2-437-FORGE.jar)
+- botania:black_mushroom (from Botania-1.19.2-437-FORGE.jar)
+
+#create:vanilla_stripped_wood
+- minecraft:stripped_acacia_wood (from create-1.19.2-0.5.0.i.jar)
+- minecraft:stripped_birch_wood (from create-1.19.2-0.5.0.i.jar)
+- minecraft:stripped_crimson_hyphae (from create-1.19.2-0.5.0.i.jar)
+- minecraft:stripped_dark_oak_wood (from create-1.19.2-0.5.0.i.jar)
+- minecraft:stripped_jungle_wood (from create-1.19.2-0.5.0.i.jar)
+- minecraft:stripped_mangrove_wood (from create-1.19.2-0.5.0.i.jar)
+- minecraft:stripped_oak_wood (from create-1.19.2-0.5.0.i.jar)
+- minecraft:stripped_spruce_wood (from create-1.19.2-0.5.0.i.jar)
+- minecraft:stripped_warped_hyphae (from create-1.19.2-0.5.0.i.jar)
+
+#libx:impl_walls
+
+#minecraft:wooden_doors
+- minecraft:oak_door (from Default)
+- minecraft:spruce_door (from Default)
+- minecraft:birch_door (from Default)
+- minecraft:jungle_door (from Default)
+- minecraft:acacia_door (from Default)
+- minecraft:dark_oak_door (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:mangrove_door (from Default)
+- #libx:impl_wooden_doors (from LibX-1.19.2-4.2.8.jar)
+
+#botania:petals
+- #botania:petals/white (from Botania-1.19.2-437-FORGE.jar)
+- #botania:petals/orange (from Botania-1.19.2-437-FORGE.jar)
+- #botania:petals/magenta (from Botania-1.19.2-437-FORGE.jar)
+- #botania:petals/light_blue (from Botania-1.19.2-437-FORGE.jar)
+- #botania:petals/yellow (from Botania-1.19.2-437-FORGE.jar)
+- #botania:petals/lime (from Botania-1.19.2-437-FORGE.jar)
+- #botania:petals/pink (from Botania-1.19.2-437-FORGE.jar)
+- #botania:petals/gray (from Botania-1.19.2-437-FORGE.jar)
+- #botania:petals/light_gray (from Botania-1.19.2-437-FORGE.jar)
+- #botania:petals/cyan (from Botania-1.19.2-437-FORGE.jar)
+- #botania:petals/purple (from Botania-1.19.2-437-FORGE.jar)
+- #botania:petals/blue (from Botania-1.19.2-437-FORGE.jar)
+- #botania:petals/brown (from Botania-1.19.2-437-FORGE.jar)
+- #botania:petals/green (from Botania-1.19.2-437-FORGE.jar)
+- #botania:petals/red (from Botania-1.19.2-437-FORGE.jar)
+- #botania:petals/black (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:emerald_ores
+- minecraft:emerald_ore (from Default)
+- minecraft:deepslate_emerald_ore (from Default)
+
+#create:stone_types/deepslate
+- create:cut_deepslate (from create-1.19.2-0.5.0.i.jar)
+- create:cut_deepslate_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_deepslate_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_deepslate (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_deepslate_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_deepslate_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_deepslate_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:cut_deepslate_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_deepslate_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_deepslate_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:small_deepslate_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_deepslate_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:layered_deepslate (from create-1.19.2-0.5.0.i.jar)
+- create:deepslate_pillar (from create-1.19.2-0.5.0.i.jar)
+
+#forge:glass/purple
+- minecraft:purple_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:tools/shovels
+- primitivestart:bone_shovel (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:reinforced_bone_shovel (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:plated_bone_shovel (from primitivestart-1.19.2-1.8.0.jar)
+- minecraft:wooden_shovel (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:stone_shovel (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_shovel (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_shovel (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_shovel (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_shovel (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dyes/magenta
+- minecraft:magenta_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+
+#minecraft:ignored_by_piglin_babies
+- minecraft:leather (from Default)
+
+#botania:dreamwood_logs
+- botania:dreamwood_log (from Botania-1.19.2-437-FORGE.jar)
+- botania:dreamwood (from Botania-1.19.2-437-FORGE.jar)
+- botania:stripped_dreamwood_log (from Botania-1.19.2-437-FORGE.jar)
+- botania:stripped_dreamwood (from Botania-1.19.2-437-FORGE.jar)
+- #botania:glimmering_dreamwood_logs (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+
+#forge:dyes/cyan
+- minecraft:cyan_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:terracotta
+- minecraft:terracotta (from Default)
+- minecraft:white_terracotta (from Default)
+- minecraft:orange_terracotta (from Default)
+- minecraft:magenta_terracotta (from Default)
+- minecraft:light_blue_terracotta (from Default)
+- minecraft:yellow_terracotta (from Default)
+- minecraft:lime_terracotta (from Default)
+- minecraft:pink_terracotta (from Default)
+- minecraft:gray_terracotta (from Default)
+- minecraft:light_gray_terracotta (from Default)
+- minecraft:cyan_terracotta (from Default)
+- minecraft:purple_terracotta (from Default)
+- minecraft:blue_terracotta (from Default)
+- minecraft:brown_terracotta (from Default)
+- minecraft:green_terracotta (from Default)
+- minecraft:red_terracotta (from Default)
+- minecraft:black_terracotta (from Default)
+
+#forge:nuggets/netherite
+- snowyweaponry:netherite_nugget (from SnowyWeaponry-1.19.2-1.5.0.jar)
+
+#libx:impl_trapdoors
+
+#forge:seeds/wheat
+- minecraft:wheat_seeds (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ingots/iron
+- minecraft:iron_ingot (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dyes/purple
+- minecraft:purple_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#curios:ring
+- botania:aura_ring (from Botania-1.19.2-437-FORGE.jar)
+- botania:aura_ring_greater (from Botania-1.19.2-437-FORGE.jar)
+- botania:dodge_ring (from Botania-1.19.2-437-FORGE.jar)
+- botania:loki_ring (from Botania-1.19.2-437-FORGE.jar)
+- botania:magnet_ring (from Botania-1.19.2-437-FORGE.jar)
+- botania:magnet_ring_greater (from Botania-1.19.2-437-FORGE.jar)
+- botania:mana_ring (from Botania-1.19.2-437-FORGE.jar)
+- botania:mana_ring_greater (from Botania-1.19.2-437-FORGE.jar)
+- botania:mining_ring (from Botania-1.19.2-437-FORGE.jar)
+- botania:odin_ring (from Botania-1.19.2-437-FORGE.jar)
+- botania:pixie_ring (from Botania-1.19.2-437-FORGE.jar)
+- botania:reach_ring (from Botania-1.19.2-437-FORGE.jar)
+- botania:swap_ring (from Botania-1.19.2-437-FORGE.jar)
+- botania:thor_ring (from Botania-1.19.2-437-FORGE.jar)
+- botania:water_ring (from Botania-1.19.2-437-FORGE.jar)
+
+#libx:impl_wooden_fences
+
+#forge:ores_in_ground/deepslate
+- minecraft:deepslate_coal_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_copper_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_diamond_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_emerald_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_gold_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_iron_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_lapis_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_redstone_ore (from forge-1.19.2-43.2.4-universal.jar)
+- create:deepslate_zinc_ore (from create-1.19.2-0.5.0.i.jar)
+
+#minecraft:anvil
+- minecraft:anvil (from Default)
+- minecraft:chipped_anvil (from Default)
+- minecraft:damaged_anvil (from Default)
+
+#ftbchunks:right_click_blacklist
+- minecraft:bucket (from ftb-chunks-forge-1902.3.15-build.233.jar)
+- minecraft:water_bucket (from ftb-chunks-forge-1902.3.15-build.233.jar)
+- minecraft:lava_bucket (from ftb-chunks-forge-1902.3.15-build.233.jar)
+- minecraft:lead (from ftb-chunks-forge-1902.3.15-build.233.jar)
+- minecraft:name_tag (from ftb-chunks-forge-1902.3.15-build.233.jar)
+- minecraft:splash_potion (from ftb-chunks-forge-1902.3.15-build.233.jar)
+- minecraft:lingering_potion (from ftb-chunks-forge-1902.3.15-build.233.jar)
+
+#forge:sand
+- #forge:sand/colorless (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:sand/red (from forge-1.19.2-43.2.4-universal.jar)
+
+#bookshelf:shovels
+- #forge:shovels (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:dyes/yellow
+- minecraft:yellow_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ingots/terrasteel
+- #botania:terrasteel_ingots (from Botania-1.19.2-437-FORGE.jar)
+
+#libx:impl_stairs
+
+#forge:storage_blocks/raw_gold
+- minecraft:raw_gold_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#bookshelf:crossbows
+- #forge:crossbows (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#libx:impl_wooden_pressure_plates
+
+#forge:gems/prismarine
+- minecraft:prismarine_crystals (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:iron_ores
+- minecraft:iron_ore (from Default)
+- minecraft:deepslate_iron_ore (from Default)
+
+#forge:stripped_wood
+- #create:vanilla_stripped_wood (from create-1.19.2-0.5.0.i.jar)
+- #create:modded_stripped_wood (from create-1.19.2-0.5.0.i.jar)
+
+#forge:ores/gold
+- #minecraft:gold_ores (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:raw_materials
+- #forge:raw_materials/copper (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:raw_materials/gold (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:raw_materials/iron (from forge-1.19.2-43.2.4-universal.jar)
+- create:raw_zinc (from create-1.19.2-0.5.0.i.jar)
+
+#create:stone_types/scoria
+- create:cut_scoria (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scoria_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scoria_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_scoria (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_scoria_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_scoria_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scoria_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scoria_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scoria_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_scoria_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:small_scoria_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_scoria_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:layered_scoria (from create-1.19.2-0.5.0.i.jar)
+- create:scoria_pillar (from create-1.19.2-0.5.0.i.jar)
+
+#botania:mystical_flowers
+- botania:black_mystical_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:blue_mystical_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:brown_mystical_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:cyan_mystical_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:gray_mystical_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:green_mystical_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:light_blue_mystical_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:light_gray_mystical_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:lime_mystical_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:magenta_mystical_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:orange_mystical_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:pink_mystical_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:purple_mystical_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:red_mystical_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:white_mystical_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:yellow_mystical_flower (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+
+#botania:lens
+- botania:lens_bounce (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_damage (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_efficiency (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_explosive (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_fire (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_firework (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_flare (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_gravity (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_influence (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_light (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_magnet (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_messenger (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_mine (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_normal (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_paint (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_phantom (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_piston (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_power (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_redirect (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_speed (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_storm (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_time (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_tripwire (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_warp (from Botania-1.19.2-437-FORGE.jar)
+- botania:lens_weight (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch (from Default)
+- minecraft:soul_lantern (from Default)
+- minecraft:soul_campfire (from Default)
+
+#forge:ingots/zinc
+- create:zinc_ingot (from create-1.19.2-0.5.0.i.jar)
+
+#botania:disposable
+- minecraft:dirt (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:gravel (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:cobblestone (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:netherrack (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:cobbled_deepslate (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:end_stone (from Botania-1.19.2-437-FORGE.jar)
+- #minecraft:sand (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:nuggets/zinc
+- create:zinc_nugget (from create-1.19.2-0.5.0.i.jar)
+
+#forge:glass/black
+- minecraft:black_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:fences/nether_brick
+- minecraft:nether_brick_fence (from forge-1.19.2-43.2.4-universal.jar)
+
+#bookshelf:books
+- #forge:books (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:armors/leggings
+- minecraft:leather_leggings (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:chainmail_leggings (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_leggings (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_leggings (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_leggings (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_leggings (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:rods
+- #forge:rods/blaze (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:rods/wooden (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass/lime
+- minecraft:lime_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:chests/wooden
+- minecraft:chest (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:trapped_chest (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ores/iron
+- #minecraft:iron_ores (from forge-1.19.2-43.2.4-universal.jar)
+
+#bookshelf:fence_gates
+- #forge:fence_gates (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#minecraft:mangrove_logs
+- minecraft:mangrove_log (from Default)
+- minecraft:mangrove_wood (from Default)
+- minecraft:stripped_mangrove_log (from Default)
+- minecraft:stripped_mangrove_wood (from Default)
+
+#forge:gems/emerald
+- minecraft:emerald (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:armors/chestplates
+- minecraft:leather_chestplate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:chainmail_chestplate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_chestplate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_chestplate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_chestplate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_chestplate (from forge-1.19.2-43.2.4-universal.jar)
+
+#botania:double_mystical_flowers
+- botania:black_double_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:blue_double_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:brown_double_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:cyan_double_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:gray_double_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:green_double_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:light_blue_double_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:light_gray_double_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:lime_double_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:magenta_double_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:orange_double_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:pink_double_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:purple_double_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:red_double_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:white_double_flower (from Botania-1.19.2-437-FORGE.jar)
+- botania:yellow_double_flower (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs (from Default)
+- minecraft:spruce_stairs (from Default)
+- minecraft:birch_stairs (from Default)
+- minecraft:jungle_stairs (from Default)
+- minecraft:acacia_stairs (from Default)
+- minecraft:dark_oak_stairs (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:mangrove_stairs (from Default)
+- botania:dreamwood_planks_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:dreamwood_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingwood_planks_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingwood_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:shimmerwood_planks_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:stripped_dreamwood_stairs (from Botania-1.19.2-437-FORGE.jar)
+- botania:stripped_livingwood_stairs (from Botania-1.19.2-437-FORGE.jar)
+- #libx:impl_wooden_stairs (from LibX-1.19.2-4.2.8.jar)
+
+#minecraft:wooden_buttons
+- minecraft:oak_button (from Default)
+- minecraft:spruce_button (from Default)
+- minecraft:birch_button (from Default)
+- minecraft:jungle_button (from Default)
+- minecraft:acacia_button (from Default)
+- minecraft:dark_oak_button (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:mangrove_button (from Default)
+- #libx:impl_wooden_buttons (from LibX-1.19.2-4.2.8.jar)
+
+#forge:tools
+- primitivestart:bone_sword (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:bone_pickaxe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:bone_axe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:bone_shovel (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:bone_hoe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:reinforced_bone_sword (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:reinforced_bone_pickaxe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:reinforced_bone_axe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:reinforced_bone_shovel (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:reinforced_bone_hoe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:plated_bone_sword (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:plated_bone_pickaxe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:plated_bone_axe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:plated_bone_shovel (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:plated_bone_hoe (from primitivestart-1.19.2-1.8.0.jar)
+- #forge:tools/swords (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/axes (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/pickaxes (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/shovels (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/hoes (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/shields (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/bows (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/crossbows (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/fishing_rods (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/tridents (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks (from Default)
+- minecraft:mossy_stone_bricks (from Default)
+- minecraft:cracked_stone_bricks (from Default)
+- minecraft:chiseled_stone_bricks (from Default)
+
+#forge:storage_blocks/quartz
+- botania:dark_quartz (from Botania-1.19.2-437-FORGE.jar)
+- botania:mana_quartz (from Botania-1.19.2-437-FORGE.jar)
+- botania:blaze_quartz (from Botania-1.19.2-437-FORGE.jar)
+- botania:lavender_quartz (from Botania-1.19.2-437-FORGE.jar)
+- botania:red_quartz (from Botania-1.19.2-437-FORGE.jar)
+- botania:elf_quartz (from Botania-1.19.2-437-FORGE.jar)
+- botania:sunny_quartz (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:quartz_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass/orange
+- minecraft:orange_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/raw_zinc
+- create:raw_zinc_block (from create-1.19.2-0.5.0.i.jar)
+
+#forge:dyes/green
+- minecraft:green_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#ftbultimine:included_tools
+
+#botania:dragonstone_gems
+- botania:dragonstone (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:plates/gold
+- create:golden_sheet (from create-1.19.2-0.5.0.i.jar)
+
+#minecraft:slabs
+- #minecraft:wooden_slabs (from Default)
+- minecraft:stone_slab (from Default)
+- minecraft:smooth_stone_slab (from Default)
+- minecraft:stone_brick_slab (from Default)
+- minecraft:sandstone_slab (from Default)
+- minecraft:purpur_slab (from Default)
+- minecraft:quartz_slab (from Default)
+- minecraft:red_sandstone_slab (from Default)
+- minecraft:brick_slab (from Default)
+- minecraft:cobblestone_slab (from Default)
+- minecraft:nether_brick_slab (from Default)
+- minecraft:petrified_oak_slab (from Default)
+- minecraft:prismarine_slab (from Default)
+- minecraft:prismarine_brick_slab (from Default)
+- minecraft:dark_prismarine_slab (from Default)
+- minecraft:polished_granite_slab (from Default)
+- minecraft:smooth_red_sandstone_slab (from Default)
+- minecraft:mossy_stone_brick_slab (from Default)
+- minecraft:polished_diorite_slab (from Default)
+- minecraft:mossy_cobblestone_slab (from Default)
+- minecraft:end_stone_brick_slab (from Default)
+- minecraft:smooth_sandstone_slab (from Default)
+- minecraft:smooth_quartz_slab (from Default)
+- minecraft:granite_slab (from Default)
+- minecraft:andesite_slab (from Default)
+- minecraft:red_nether_brick_slab (from Default)
+- minecraft:polished_andesite_slab (from Default)
+- minecraft:diorite_slab (from Default)
+- minecraft:cut_sandstone_slab (from Default)
+- minecraft:cut_red_sandstone_slab (from Default)
+- minecraft:blackstone_slab (from Default)
+- minecraft:polished_blackstone_brick_slab (from Default)
+- minecraft:polished_blackstone_slab (from Default)
+- minecraft:cobbled_deepslate_slab (from Default)
+- minecraft:polished_deepslate_slab (from Default)
+- minecraft:deepslate_tile_slab (from Default)
+- minecraft:deepslate_brick_slab (from Default)
+- minecraft:waxed_weathered_cut_copper_slab (from Default)
+- minecraft:waxed_exposed_cut_copper_slab (from Default)
+- minecraft:waxed_cut_copper_slab (from Default)
+- minecraft:oxidized_cut_copper_slab (from Default)
+- minecraft:weathered_cut_copper_slab (from Default)
+- minecraft:exposed_cut_copper_slab (from Default)
+- minecraft:cut_copper_slab (from Default)
+- minecraft:waxed_oxidized_cut_copper_slab (from Default)
+- minecraft:mud_brick_slab (from Default)
+- botania:black_pavement_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:blaze_quartz_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:blue_pavement_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:corporea_brick_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:corporea_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:dark_quartz_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:dreamwood_planks_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:dreamwood_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:elf_quartz_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:green_pavement_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:lavender_quartz_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingrock_bricks_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingrock_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingwood_planks_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingwood_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:mana_quartz_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_desert_bricks_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_desert_cobblestone_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_desert_stone_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_forest_bricks_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_forest_cobblestone_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_forest_stone_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_fungal_bricks_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_fungal_cobblestone_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_fungal_stone_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mesa_bricks_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mesa_cobblestone_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mesa_stone_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mountain_bricks_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mountain_cobblestone_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_mountain_stone_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_plains_bricks_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_plains_cobblestone_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_plains_stone_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_swamp_bricks_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_swamp_cobblestone_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_swamp_stone_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_taiga_bricks_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_taiga_cobblestone_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:metamorphic_taiga_stone_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:mossy_livingrock_bricks_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:polished_livingrock_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:red_pavement_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:red_quartz_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:shimmerrock_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:shimmerwood_planks_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:stripped_dreamwood_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:stripped_livingwood_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:sunny_quartz_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:white_pavement_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:yellow_pavement_slab (from Botania-1.19.2-437-FORGE.jar)
+- #libx:impl_slabs (from LibX-1.19.2-4.2.8.jar)
+- create:cut_granite_slab (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_granite_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_granite_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:small_granite_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_diorite_slab (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_diorite_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_diorite_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:small_diorite_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_andesite_slab (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_andesite_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_andesite_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:small_andesite_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_calcite_slab (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_calcite_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_calcite_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:small_calcite_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_dripstone_slab (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_dripstone_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_dripstone_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:small_dripstone_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_deepslate_slab (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_deepslate_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_deepslate_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:small_deepslate_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_tuff_slab (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_tuff_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_tuff_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:small_tuff_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_asurine_slab (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_asurine_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_asurine_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:small_asurine_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_crimsite_slab (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_crimsite_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_crimsite_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:small_crimsite_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_limestone_slab (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_limestone_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_limestone_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:small_limestone_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_ochrum_slab (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_ochrum_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_ochrum_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:small_ochrum_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scoria_slab (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_scoria_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scoria_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:small_scoria_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scorchia_slab (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_scorchia_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_scorchia_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:small_scorchia_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_veridium_slab (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_veridium_slab (from create-1.19.2-0.5.0.i.jar)
+- create:cut_veridium_brick_slab (from create-1.19.2-0.5.0.i.jar)
+- create:small_veridium_brick_slab (from create-1.19.2-0.5.0.i.jar)
+
+#forge:ores/emerald
+- #minecraft:emerald_ores (from forge-1.19.2-43.2.4-universal.jar)
+
+#botania:petals/gray
+- botania:gray_petal (from Botania-1.19.2-437-FORGE.jar)
+- botania:gray_mushroom (from Botania-1.19.2-437-FORGE.jar)
+
+#create:casing
+- create:andesite_casing (from create-1.19.2-0.5.0.i.jar)
+- create:brass_casing (from create-1.19.2-0.5.0.i.jar)
+- create:copper_casing (from create-1.19.2-0.5.0.i.jar)
+- create:shadow_steel_casing (from create-1.19.2-0.5.0.i.jar)
+- create:refined_radiance_casing (from create-1.19.2-0.5.0.i.jar)
+- create:railway_casing (from create-1.19.2-0.5.0.i.jar)
+
+#libx:impl_wooden_trapdoors
+
+#forge:dyes/lime
+- minecraft:lime_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#botania:misc_special_flowers
+- botania:manastar (from Botania-1.19.2-437-FORGE.jar)
+- botania:pure_daisy (from Botania-1.19.2-437-FORGE.jar)
+- botania:bergamute (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:buttons
+- #minecraft:wooden_buttons (from Default)
+- minecraft:stone_button (from Default)
+- minecraft:polished_blackstone_button (from Default)
+- #libx:impl_buttons (from LibX-1.19.2-4.2.8.jar)
+
+#ftbultimine:excluded_tools
+- #ftbultimine:excluded_tools/strict? (from ftb-ultimine-forge-1902.3.5-build.65.jar)
+
+#forge:plates/iron
+- create:iron_sheet (from create-1.19.2-0.5.0.i.jar)
+
+#libx:impl_slabs
+
+#bookshelf:hoes
+- #forge:hoes (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#minecraft:rails
+- minecraft:rail (from Default)
+- minecraft:powered_rail (from Default)
+- minecraft:detector_rail (from Default)
+- minecraft:activator_rail (from Default)
+- botania:ghost_rail (from Botania-1.19.2-437-FORGE.jar)
+
+#bookshelf:bows
+- #forge:bows (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:barrels/wooden
+- minecraft:barrel (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:overworld_natural_logs
+- minecraft:acacia_log (from Default)
+- minecraft:birch_log (from Default)
+- minecraft:oak_log (from Default)
+- minecraft:jungle_log (from Default)
+- minecraft:spruce_log (from Default)
+- minecraft:dark_oak_log (from Default)
+- minecraft:mangrove_log (from Default)
+
+#create:modded_stripped_logs
+- ars_nouveau:stripped_blue_archwood_log? (from create-1.19.2-0.5.0.i.jar)
+- ars_nouveau:stripped_purple_archwood_log? (from create-1.19.2-0.5.0.i.jar)
+- ars_nouveau:stripped_green_archwood_log? (from create-1.19.2-0.5.0.i.jar)
+- ars_nouveau:stripped_red_archwood_log? (from create-1.19.2-0.5.0.i.jar)
+- botania:stripped_livingwood_log? (from create-1.19.2-0.5.0.i.jar)
+- botania:stripped_dreamwood_log? (from create-1.19.2-0.5.0.i.jar)
+- forbidden_arcanus:stripped_cherrywood_log? (from create-1.19.2-0.5.0.i.jar)
+- forbidden_arcanus:stripped_mysterywood_log? (from create-1.19.2-0.5.0.i.jar)
+- hexcasting:akashic_log_stripped? (from create-1.19.2-0.5.0.i.jar)
+- integrateddynamics:menril_log_stripped? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_aspen_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_baobab_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_enchanted_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_cherry_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_cika_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_cypress_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_ebony_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_ether_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_fir_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_green_enchanted_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_holly_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_jacaranda_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_lament_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_mahogany_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_mangrove_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_maple_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_nightshade_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_palm_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_palo_verde_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_pine_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_rainbow_eucalyptus_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_redwood_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_skyris_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_willow_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_witch_hazel_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_zelkova_log? (from create-1.19.2-0.5.0.i.jar)
+- silentgear:stripped_netherwood_log? (from create-1.19.2-0.5.0.i.jar)
+- twilightforest:stripped_twilight_oak_log? (from create-1.19.2-0.5.0.i.jar)
+- twilightforest:stripped_canopy_log? (from create-1.19.2-0.5.0.i.jar)
+- twilightforest:stripped_mangrove_log? (from create-1.19.2-0.5.0.i.jar)
+- twilightforest:stripped_dark_log? (from create-1.19.2-0.5.0.i.jar)
+- twilightforest:stripped_time_log? (from create-1.19.2-0.5.0.i.jar)
+- twilightforest:stripped_transformation_log? (from create-1.19.2-0.5.0.i.jar)
+- twilightforest:stripped_mining_log? (from create-1.19.2-0.5.0.i.jar)
+- twilightforest:stripped_sorting_log? (from create-1.19.2-0.5.0.i.jar)
+- tconstruct:stripped_greenheart_log? (from create-1.19.2-0.5.0.i.jar)
+- tconstruct:stripped_skyroot_log? (from create-1.19.2-0.5.0.i.jar)
+- tconstruct:stripped_bloodshroom_log? (from create-1.19.2-0.5.0.i.jar)
+- architects_palette:stripped_twisted_log? (from create-1.19.2-0.5.0.i.jar)
+- quark:stripped_azalea_log? (from create-1.19.2-0.5.0.i.jar)
+- quark:stripped_blossom_log? (from create-1.19.2-0.5.0.i.jar)
+- ecologics:stripped_coconut_log? (from create-1.19.2-0.5.0.i.jar)
+- ecologics:stripped_walnut_log? (from create-1.19.2-0.5.0.i.jar)
+- ecologics:stripped_azalea_log? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_fir_log? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_redwood_log? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_cherry_log? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_mahogany_log? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_jacaranda_log? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_palm_log? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_willow_log? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_dead_log? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_magic_log? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_umbran_log? (from create-1.19.2-0.5.0.i.jar)
+- biomesoplenty:stripped_hellbark_log? (from create-1.19.2-0.5.0.i.jar)
+- blue_skies:stripped_bluebright_log? (from create-1.19.2-0.5.0.i.jar)
+- blue_skies:stripped_starlit_log? (from create-1.19.2-0.5.0.i.jar)
+- blue_skies:stripped_frostbright_log? (from create-1.19.2-0.5.0.i.jar)
+- blue_skies:stripped_lunar_log? (from create-1.19.2-0.5.0.i.jar)
+- blue_skies:stripped_dusk_log? (from create-1.19.2-0.5.0.i.jar)
+- blue_skies:stripped_maple_log? (from create-1.19.2-0.5.0.i.jar)
+- blue_skies:stripped_cherry_log? (from create-1.19.2-0.5.0.i.jar)
+- byg:stripped_bulbis_stem? (from create-1.19.2-0.5.0.i.jar)
+
+#create:stone_types/tuff
+- create:cut_tuff (from create-1.19.2-0.5.0.i.jar)
+- create:cut_tuff_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_tuff_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_tuff (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_tuff_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_tuff_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_tuff_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:cut_tuff_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_tuff_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_tuff_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:small_tuff_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_tuff_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:layered_tuff (from create-1.19.2-0.5.0.i.jar)
+- create:tuff_pillar (from create-1.19.2-0.5.0.i.jar)
+
+#forge:books
+- minecraft:book (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:writable_book (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:written_book (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:enchanted_book (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:storage_blocks/raw_iron
+- minecraft:raw_iron_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate (from Default)
+- minecraft:spruce_pressure_plate (from Default)
+- minecraft:birch_pressure_plate (from Default)
+- minecraft:jungle_pressure_plate (from Default)
+- minecraft:acacia_pressure_plate (from Default)
+- minecraft:dark_oak_pressure_plate (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:mangrove_pressure_plate (from Default)
+- #libx:impl_wooden_pressure_plates (from LibX-1.19.2-4.2.8.jar)
+
+#minecraft:tall_flowers
+- minecraft:sunflower (from Default)
+- minecraft:lilac (from Default)
+- minecraft:peony (from Default)
+- minecraft:rose_bush (from Default)
+- #botania:double_mystical_flowers (from Botania-1.19.2-437-FORGE.jar)
+
+#botania:petals/purple
+- botania:purple_petal (from Botania-1.19.2-437-FORGE.jar)
+- botania:purple_mushroom (from Botania-1.19.2-437-FORGE.jar)
+
+#bookshelf:leggings
+- #forge:leggings (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#create:create_ingots
+- create:andesite_alloy (from create-1.19.2-0.5.0.i.jar)
+- create:zinc_ingot (from create-1.19.2-0.5.0.i.jar)
+- create:brass_ingot (from create-1.19.2-0.5.0.i.jar)
+
+#forge:bows
+- minecraft:bow (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:bookshelves
+- minecraft:bookshelf (from forge-1.19.2-43.2.4-universal.jar)
+
+#botania:seed_apothecary_reagent
+- minecraft:wheat_seeds (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:beetroot_seeds (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:melon_seeds (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:pumpkin_seeds (from Botania-1.19.2-437-FORGE.jar)
+- #forge:seeds? (from Botania-1.19.2-437-FORGE.jar)
+
+#create:stone_types/calcite
+- create:cut_calcite (from create-1.19.2-0.5.0.i.jar)
+- create:cut_calcite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_calcite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_calcite (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_calcite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_calcite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_calcite_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:cut_calcite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_calcite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_calcite_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:small_calcite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_calcite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:layered_calcite (from create-1.19.2-0.5.0.i.jar)
+- create:calcite_pillar (from create-1.19.2-0.5.0.i.jar)
+
+#forge:ores_in_ground/stone
+- minecraft:coal_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:copper_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:emerald_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:gold_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:lapis_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:redstone_ore (from forge-1.19.2-43.2.4-universal.jar)
+- create:zinc_ore (from create-1.19.2-0.5.0.i.jar)
+
+#minecraft:gold_ores
+- minecraft:gold_ore (from Default)
+- minecraft:nether_gold_ore (from Default)
+- minecraft:deepslate_gold_ore (from Default)
+
+#forge:dyes
+- #forge:dyes/white (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/orange (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/magenta (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/light_blue (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/yellow (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/lime (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/pink (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/gray (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/light_gray (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/cyan (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/purple (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/blue (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/brown (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/green (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/red (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/black (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/pink
+- minecraft:pink_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:completes_find_tree_tutorial
+- #minecraft:logs (from Default)
+- #minecraft:leaves (from Default)
+- #minecraft:wart_blocks (from Default)
+
+#create:pressurized_air_sources
+- create:copper_backtank (from create-1.19.2-0.5.0.i.jar)
+
+#botania:petals/green
+- botania:green_petal (from Botania-1.19.2-437-FORGE.jar)
+- botania:green_mushroom (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:dirt
+- minecraft:dirt (from Default)
+- minecraft:grass_block (from Default)
+- minecraft:podzol (from Default)
+- minecraft:coarse_dirt (from Default)
+- minecraft:mycelium (from Default)
+- minecraft:rooted_dirt (from Default)
+- minecraft:moss_block (from Default)
+- minecraft:mud (from Default)
+- minecraft:muddy_mangrove_roots (from Default)
+
+#forge:netherrack
+- minecraft:netherrack (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:hoes
+- primitivestart:bone_hoe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:reinforced_bone_hoe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:plated_bone_hoe (from primitivestart-1.19.2-1.8.0.jar)
+- minecraft:wooden_hoe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:stone_hoe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:iron_hoe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:golden_hoe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:diamond_hoe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:netherite_hoe (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#minecraft:cluster_max_harvestables
+- minecraft:diamond_pickaxe (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:iron_pickaxe (from Default)
+- minecraft:netherite_pickaxe (from Default)
+- minecraft:stone_pickaxe (from Default)
+- minecraft:wooden_pickaxe (from Default)
+- botania:manasteel_pick (from Botania-1.19.2-437-FORGE.jar)
+- botania:elementium_pickaxe (from Botania-1.19.2-437-FORGE.jar)
+- botania:terra_pick (from Botania-1.19.2-437-FORGE.jar)
+- botania:glass_pickaxe (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand (from Default)
+- minecraft:soul_soil (from Default)
+
+#bookshelf:shears
+- #forge:shears (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:eggs
+- minecraft:egg (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ingots/elementium
+- #botania:elementium_ingots (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:dyes/red
+- minecraft:red_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:crossbows
+- minecraft:crossbow (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#botania:elementium_nuggets
+- botania:elementium_nugget (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:gravel
+- minecraft:gravel (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dyes/black
+- minecraft:black_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dusts/glowstone
+- minecraft:glowstone_dust (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:wool
+- minecraft:white_wool (from Default)
+- minecraft:orange_wool (from Default)
+- minecraft:magenta_wool (from Default)
+- minecraft:light_blue_wool (from Default)
+- minecraft:yellow_wool (from Default)
+- minecraft:lime_wool (from Default)
+- minecraft:pink_wool (from Default)
+- minecraft:gray_wool (from Default)
+- minecraft:light_gray_wool (from Default)
+- minecraft:cyan_wool (from Default)
+- minecraft:purple_wool (from Default)
+- minecraft:blue_wool (from Default)
+- minecraft:brown_wool (from Default)
+- minecraft:green_wool (from Default)
+- minecraft:red_wool (from Default)
+- minecraft:black_wool (from Default)
+
+#forge:glass/colorless
+- minecraft:glass (from forge-1.19.2-43.2.4-universal.jar)
+- create:tiled_glass (from create-1.19.2-0.5.0.i.jar)
+- create:framed_glass (from create-1.19.2-0.5.0.i.jar)
+- create:horizontal_framed_glass (from create-1.19.2-0.5.0.i.jar)
+- create:vertical_framed_glass (from create-1.19.2-0.5.0.i.jar)
+
+#curios:body
+- botania:balance_cloak (from Botania-1.19.2-437-FORGE.jar)
+- botania:holy_cloak (from Botania-1.19.2-437-FORGE.jar)
+- botania:invisibility_cloak (from Botania-1.19.2-437-FORGE.jar)
+- botania:third_eye (from Botania-1.19.2-437-FORGE.jar)
+- botania:unholy_cloak (from Botania-1.19.2-437-FORGE.jar)
+
+#botania:elementium_blocks
+- botania:elementium_block (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:tools/crossbows
+- minecraft:crossbow (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ores/zinc
+- create:zinc_ore (from create-1.19.2-0.5.0.i.jar)
+- create:deepslate_zinc_ore (from create-1.19.2-0.5.0.i.jar)
+
+#forge:ores/netherite_scrap
+- minecraft:ancient_debris (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:nuggets/copper
+- create:copper_nugget (from create-1.19.2-0.5.0.i.jar)
+
+#forge:stained_glass
+- minecraft:white_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:orange_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:magenta_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:light_blue_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:yellow_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:lime_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:pink_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:gray_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:light_gray_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:cyan_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:purple_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:blue_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:brown_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:green_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:red_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:black_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:crops/carrot
+- minecraft:carrot (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:nuggets/gold
+- minecraft:gold_nugget (from forge-1.19.2-43.2.4-universal.jar)
+
+#bookshelf:helmets
+- #forge:helmets (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:leggings
+- minecraft:leather_leggings (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:chainmail_leggings (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:iron_leggings (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:golden_leggings (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:diamond_leggings (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:netherite_leggings (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#minecraft:warped_stems
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+
+#forge:nether_stars
+- minecraft:nether_star (from forge-1.19.2-43.2.4-universal.jar)
+
+#botania:magnet_ring_blacklist
+
+#forge:shovels
+- primitivestart:bone_shovel (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:reinforced_bone_shovel (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:plated_bone_shovel (from primitivestart-1.19.2-1.8.0.jar)
+- minecraft:wooden_shovel (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:stone_shovel (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:iron_shovel (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:golden_shovel (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:diamond_shovel (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:netherite_shovel (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:dyes/blue
+- minecraft:blue_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/iron
+- minecraft:iron_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#create:seats
+- create:white_seat (from create-1.19.2-0.5.0.i.jar)
+- create:orange_seat (from create-1.19.2-0.5.0.i.jar)
+- create:magenta_seat (from create-1.19.2-0.5.0.i.jar)
+- create:light_blue_seat (from create-1.19.2-0.5.0.i.jar)
+- create:yellow_seat (from create-1.19.2-0.5.0.i.jar)
+- create:lime_seat (from create-1.19.2-0.5.0.i.jar)
+- create:pink_seat (from create-1.19.2-0.5.0.i.jar)
+- create:gray_seat (from create-1.19.2-0.5.0.i.jar)
+- create:light_gray_seat (from create-1.19.2-0.5.0.i.jar)
+- create:cyan_seat (from create-1.19.2-0.5.0.i.jar)
+- create:purple_seat (from create-1.19.2-0.5.0.i.jar)
+- create:blue_seat (from create-1.19.2-0.5.0.i.jar)
+- create:brown_seat (from create-1.19.2-0.5.0.i.jar)
+- create:green_seat (from create-1.19.2-0.5.0.i.jar)
+- create:red_seat (from create-1.19.2-0.5.0.i.jar)
+- create:black_seat (from create-1.19.2-0.5.0.i.jar)
+
+#forge:tools/pickaxes
+- primitivestart:bone_pickaxe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:reinforced_bone_pickaxe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:plated_bone_pickaxe (from primitivestart-1.19.2-1.8.0.jar)
+- minecraft:wooden_pickaxe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:stone_pickaxe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_pickaxe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_pickaxe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_pickaxe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_pickaxe (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/brown
+- minecraft:brown_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#create:sandpaper
+- create:sand_paper (from create-1.19.2-0.5.0.i.jar)
+- create:red_sand_paper (from create-1.19.2-0.5.0.i.jar)
+
+#forge:heads
+- minecraft:creeper_head (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:dragon_head (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:player_head (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:skeleton_skull (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:wither_skeleton_skull (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:zombie_head (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:tools/axes
+- primitivestart:bone_axe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:reinforced_bone_axe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:plated_bone_axe (from primitivestart-1.19.2-1.8.0.jar)
+- minecraft:wooden_axe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:stone_axe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_axe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_axe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_axe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_axe (from forge-1.19.2-43.2.4-universal.jar)
+
+#bookshelf:stones
+- #forge:stone (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:nuggets/manasteel
+- #botania:manasteel_nuggets (from Botania-1.19.2-437-FORGE.jar)
+
+#libx:impl_wooden_slabs
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log (from Default)
+- minecraft:dark_oak_wood (from Default)
+- minecraft:stripped_dark_oak_log (from Default)
+- minecraft:stripped_dark_oak_wood (from Default)
+
+#forge:bones
+- minecraft:bone (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:spyglasses
+- minecraft:spyglass (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#bookshelf:chestplates
+- #forge:chestplates (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#create:stone_types/limestone
+- create:cut_limestone (from create-1.19.2-0.5.0.i.jar)
+- create:cut_limestone_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_limestone_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_limestone (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_limestone_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_limestone_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_limestone_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:cut_limestone_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_limestone_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_limestone_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:small_limestone_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_limestone_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:layered_limestone (from create-1.19.2-0.5.0.i.jar)
+- create:limestone_pillar (from create-1.19.2-0.5.0.i.jar)
+
+#forge:glass_panes
+- botania:mana_glass_pane (from Botania-1.19.2-437-FORGE.jar)
+- botania:elf_glass_pane (from Botania-1.19.2-437-FORGE.jar)
+- botania:bifrost_pane (from Botania-1.19.2-437-FORGE.jar)
+- #forge:glass_panes/colorless (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:stained_glass_panes (from forge-1.19.2-43.2.4-universal.jar)
+- create:tiled_glass_pane (from create-1.19.2-0.5.0.i.jar)
+- create:framed_glass_pane (from create-1.19.2-0.5.0.i.jar)
+- create:horizontal_framed_glass_pane (from create-1.19.2-0.5.0.i.jar)
+- create:vertical_framed_glass_pane (from create-1.19.2-0.5.0.i.jar)
+- create:oak_window_pane (from create-1.19.2-0.5.0.i.jar)
+- create:spruce_window_pane (from create-1.19.2-0.5.0.i.jar)
+- create:birch_window_pane (from create-1.19.2-0.5.0.i.jar)
+- create:jungle_window_pane (from create-1.19.2-0.5.0.i.jar)
+- create:acacia_window_pane (from create-1.19.2-0.5.0.i.jar)
+- create:dark_oak_window_pane (from create-1.19.2-0.5.0.i.jar)
+- create:crimson_window_pane (from create-1.19.2-0.5.0.i.jar)
+- create:warped_window_pane (from create-1.19.2-0.5.0.i.jar)
+- create:ornate_iron_window_pane (from create-1.19.2-0.5.0.i.jar)
+
+#forge:enchanting_fuels
+- #forge:gems/lapis (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:crimson_fence_gate (from Default)
+- minecraft:warped_fence_gate (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+
+#forge:gems/mana_diamond
+- #botania:mana_diamond_gems (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:mushrooms
+- botania:white_mushroom (from Botania-1.19.2-437-FORGE.jar)
+- botania:orange_mushroom (from Botania-1.19.2-437-FORGE.jar)
+- botania:magenta_mushroom (from Botania-1.19.2-437-FORGE.jar)
+- botania:light_blue_mushroom (from Botania-1.19.2-437-FORGE.jar)
+- botania:yellow_mushroom (from Botania-1.19.2-437-FORGE.jar)
+- botania:lime_mushroom (from Botania-1.19.2-437-FORGE.jar)
+- botania:pink_mushroom (from Botania-1.19.2-437-FORGE.jar)
+- botania:gray_mushroom (from Botania-1.19.2-437-FORGE.jar)
+- botania:light_gray_mushroom (from Botania-1.19.2-437-FORGE.jar)
+- botania:cyan_mushroom (from Botania-1.19.2-437-FORGE.jar)
+- botania:purple_mushroom (from Botania-1.19.2-437-FORGE.jar)
+- botania:blue_mushroom (from Botania-1.19.2-437-FORGE.jar)
+- botania:brown_mushroom (from Botania-1.19.2-437-FORGE.jar)
+- botania:green_mushroom (from Botania-1.19.2-437-FORGE.jar)
+- botania:red_mushroom (from Botania-1.19.2-437-FORGE.jar)
+- botania:black_mushroom (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:brown_mushroom (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:red_mushroom (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:flour/wheat
+- create:wheat_flour (from create-1.19.2-0.5.0.i.jar)
+
+#minecraft:lapis_ores
+- minecraft:lapis_ore (from Default)
+- minecraft:deepslate_lapis_ore (from Default)
+
+#forge:tools/swords
+- primitivestart:bone_sword (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:reinforced_bone_sword (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:plated_bone_sword (from primitivestart-1.19.2-1.8.0.jar)
+- minecraft:wooden_sword (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:stone_sword (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_sword (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_sword (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_sword (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_sword (from forge-1.19.2-43.2.4-universal.jar)
+
+#quark:big_harvesting_hoes
+- botania:elementium_hoe (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:ingots/netherite
+- minecraft:netherite_ingot (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:fences
+- #minecraft:wooden_fences (from Default)
+- minecraft:nether_brick_fence (from Default)
+- botania:dreamwood_fence (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingwood_fence (from Botania-1.19.2-437-FORGE.jar)
+- #libx:impl_fences (from LibX-1.19.2-4.2.8.jar)
+
+#minecraft:saplings
+- minecraft:oak_sapling (from Default)
+- minecraft:spruce_sapling (from Default)
+- minecraft:birch_sapling (from Default)
+- minecraft:jungle_sapling (from Default)
+- minecraft:acacia_sapling (from Default)
+- minecraft:dark_oak_sapling (from Default)
+- minecraft:azalea (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+
+#forge:ores/copper
+- #minecraft:copper_ores (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:snowballs
+- yellowsnow:yellow_snowball (from YellowSnow-1.19.2-2.0.1.jar)
+
+#forge:stripped_logs
+- #create:vanilla_stripped_logs (from create-1.19.2-0.5.0.i.jar)
+- #create:modded_stripped_logs (from create-1.19.2-0.5.0.i.jar)
+
+#forge:seeds/beetroot
+- minecraft:beetroot_seeds (from forge-1.19.2-43.2.4-universal.jar)
+
+#botania:petals/cyan
+- botania:cyan_petal (from Botania-1.19.2-437-FORGE.jar)
+- botania:cyan_mushroom (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:banners
+- minecraft:white_banner (from Default)
+- minecraft:orange_banner (from Default)
+- minecraft:magenta_banner (from Default)
+- minecraft:light_blue_banner (from Default)
+- minecraft:yellow_banner (from Default)
+- minecraft:lime_banner (from Default)
+- minecraft:pink_banner (from Default)
+- minecraft:gray_banner (from Default)
+- minecraft:light_gray_banner (from Default)
+- minecraft:cyan_banner (from Default)
+- minecraft:purple_banner (from Default)
+- minecraft:blue_banner (from Default)
+- minecraft:brown_banner (from Default)
+- minecraft:green_banner (from Default)
+- minecraft:red_banner (from Default)
+- minecraft:black_banner (from Default)
+
+#botania:petals/orange
+- botania:orange_petal (from Botania-1.19.2-437-FORGE.jar)
+- botania:orange_mushroom (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:wooden_fences
+- minecraft:oak_fence (from Default)
+- minecraft:acacia_fence (from Default)
+- minecraft:dark_oak_fence (from Default)
+- minecraft:spruce_fence (from Default)
+- minecraft:birch_fence (from Default)
+- minecraft:jungle_fence (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:mangrove_fence (from Default)
+- botania:dreamwood_fence (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingwood_fence (from Botania-1.19.2-437-FORGE.jar)
+- #libx:impl_wooden_fences (from LibX-1.19.2-4.2.8.jar)
+
+#forge:tools/tridents
+- minecraft:trident (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:chestplates
+- minecraft:leather_chestplate (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:chainmail_chestplate (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:iron_chestplate (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:golden_chestplate (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:diamond_chestplate (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:netherite_chestplate (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:elytra (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:armors/boots
+- minecraft:leather_boots (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:chainmail_boots (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_boots (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_boots (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_boots (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_boots (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:obsidian
+- minecraft:obsidian (from forge-1.19.2-43.2.4-universal.jar)
+
+#curios:necklace
+- botania:blood_pendant (from Botania-1.19.2-437-FORGE.jar)
+- botania:cloud_pendant (from Botania-1.19.2-437-FORGE.jar)
+- botania:ice_pendant (from Botania-1.19.2-437-FORGE.jar)
+- botania:lava_pendant (from Botania-1.19.2-437-FORGE.jar)
+- botania:super_cloud_pendant (from Botania-1.19.2-437-FORGE.jar)
+- botania:super_lava_pendant (from Botania-1.19.2-437-FORGE.jar)
+
+#bookshelf:spyglasses
+- #forge:spyglasses (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:ore_rates/singular
+- minecraft:ancient_debris (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:coal_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_coal_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_diamond_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_emerald_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_gold_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_iron_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:emerald_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:gold_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:nether_quartz_ore (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:dampens_vibrations
+- #minecraft:wool (from Default)
+- #minecraft:wool_carpets (from Default)
+
+#forge:compasses
+- minecraft:compass (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:buckets/honey
+- create:honey_bucket (from create-1.19.2-0.5.0.i.jar)
+
+#forge:raw_materials/copper
+- minecraft:raw_copper (from forge-1.19.2-43.2.4-universal.jar)
+
+#botania:manasteel_blocks
+- botania:manasteel_block (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:glass/magenta
+- minecraft:magenta_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:fishing_rods
+- minecraft:fishing_rod (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:ores/coal
+- #minecraft:coal_ores (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ingots/manasteel
+- #botania:manasteel_ingots (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:feathers
+- minecraft:feather (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/elementium
+- #botania:elementium_blocks (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:string
+- minecraft:string (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors (from Default)
+- minecraft:iron_trapdoor (from Default)
+- #libx:impl_trapdoors (from LibX-1.19.2-4.2.8.jar)
+- create:train_trapdoor (from create-1.19.2-0.5.0.i.jar)
+- create:framed_glass_trapdoor (from create-1.19.2-0.5.0.i.jar)
+
+#forge:ingots/gold
+- minecraft:gold_ingot (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass/cyan
+- minecraft:cyan_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:leather
+- minecraft:leather (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass
+- botania:mana_glass (from Botania-1.19.2-437-FORGE.jar)
+- botania:elf_glass (from Botania-1.19.2-437-FORGE.jar)
+- botania:bifrost_perm (from Botania-1.19.2-437-FORGE.jar)
+- #forge:glass/colorless (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:glass/tinted (from forge-1.19.2-43.2.4-universal.jar)
+
+#bookshelf:fishing_rods
+- #forge:fishing_rods (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:mob_buckets
+- minecraft:pufferfish_bucket (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:salmon_bucket (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:cod_bucket (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:tropical_fish_bucket (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:axolotl_bucket (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#botania:petals/light_blue
+- botania:light_blue_petal (from Botania-1.19.2-437-FORGE.jar)
+- botania:light_blue_mushroom (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:boats
+- minecraft:oak_boat (from Default)
+- minecraft:spruce_boat (from Default)
+- minecraft:birch_boat (from Default)
+- minecraft:jungle_boat (from Default)
+- minecraft:acacia_boat (from Default)
+- minecraft:dark_oak_boat (from Default)
+- minecraft:mangrove_boat (from Default)
+- #minecraft:chest_boats (from Default)
+
+#forge:nuggets/iron
+- minecraft:iron_nugget (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:leaves
+- minecraft:jungle_leaves (from Default)
+- minecraft:oak_leaves (from Default)
+- minecraft:spruce_leaves (from Default)
+- minecraft:dark_oak_leaves (from Default)
+- minecraft:acacia_leaves (from Default)
+- minecraft:birch_leaves (from Default)
+- minecraft:azalea_leaves (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:mangrove_leaves (from Default)
+
+#forge:ores_in_ground/netherrack
+- minecraft:nether_gold_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:nether_quartz_ore (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/brass
+- create:brass_block (from create-1.19.2-0.5.0.i.jar)
+
+#botania:livingwood_logs
+- botania:livingwood_log (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingwood (from Botania-1.19.2-437-FORGE.jar)
+- botania:stripped_livingwood_log (from Botania-1.19.2-437-FORGE.jar)
+- botania:stripped_livingwood (from Botania-1.19.2-437-FORGE.jar)
+- #botania:glimmering_livingwood_logs (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:crops/potato
+- minecraft:potato (from forge-1.19.2-43.2.4-universal.jar)
+
+#create:blaze_burner_fuel/special
+- create:blaze_cake (from create-1.19.2-0.5.0.i.jar)
+
+#forge:glass_panes/gray
+- minecraft:gray_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#botania:terra_pick_blacklist
+- botania:aura_ring (from Botania-1.19.2-437-FORGE.jar)
+- botania:aura_ring_greater (from Botania-1.19.2-437-FORGE.jar)
+- botania:terrasteel_helmet (from Botania-1.19.2-437-FORGE.jar)
+- botania:spark (from Botania-1.19.2-437-FORGE.jar)
+
+#botania:burst_viewers
+- botania:monocle (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:acacia_logs
+- minecraft:acacia_log (from Default)
+- minecraft:acacia_wood (from Default)
+- minecraft:stripped_acacia_log (from Default)
+- minecraft:stripped_acacia_wood (from Default)
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores (from Default)
+- minecraft:gold_block (from Default)
+- minecraft:gilded_blackstone (from Default)
+- minecraft:light_weighted_pressure_plate (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:bell (from Default)
+- minecraft:clock (from Default)
+- minecraft:golden_carrot (from Default)
+- minecraft:glistering_melon_slice (from Default)
+- minecraft:golden_apple (from Default)
+- minecraft:enchanted_golden_apple (from Default)
+- minecraft:golden_helmet (from Default)
+- minecraft:golden_chestplate (from Default)
+- minecraft:golden_leggings (from Default)
+- minecraft:golden_boots (from Default)
+- minecraft:golden_horse_armor (from Default)
+- minecraft:golden_sword (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:golden_shovel (from Default)
+- minecraft:golden_axe (from Default)
+- minecraft:golden_hoe (from Default)
+- minecraft:raw_gold (from Default)
+- minecraft:raw_gold_block (from Default)
+- botania:alchemy_catalyst (from Botania-1.19.2-437-FORGE.jar)
+- botania:diva_charm (from Botania-1.19.2-437-FORGE.jar)
+- botania:hourglass (from Botania-1.19.2-437-FORGE.jar)
+- botania:mana_pylon (from Botania-1.19.2-437-FORGE.jar)
+- botania:monocle (from Botania-1.19.2-437-FORGE.jar)
+- create:golden_sheet (from create-1.19.2-0.5.0.i.jar)
+- create:crushed_gold_ore (from create-1.19.2-0.5.0.i.jar)
+
+#bookshelf:compasses
+- #forge:compasses (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:tools/wrench
+- create:wrench (from create-1.19.2-0.5.0.i.jar)
+
+#forge:stained_glass_panes
+- minecraft:white_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:orange_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:magenta_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:light_blue_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:yellow_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:lime_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:pink_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:gray_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:light_gray_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:cyan_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:purple_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:blue_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:brown_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:green_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:red_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:black_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#libx:impl_signs
+
+#curios:head
+- botania:flight_tiara (from Botania-1.19.2-437-FORGE.jar)
+- botania:itemfinder (from Botania-1.19.2-437-FORGE.jar)
+- create:goggles (from create-1.19.2-0.5.0.i.jar)
+
+#botania:mana_diamond_gems
+- botania:mana_diamond (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:storage_blocks/zinc
+- create:zinc_block (from create-1.19.2-0.5.0.i.jar)
+
+#forge:sand/red
+- minecraft:red_sand (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:copper_ores
+- minecraft:copper_ore (from Default)
+- minecraft:deepslate_copper_ore (from Default)
+
+#forge:glass/brown
+- minecraft:brown_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs (from Default)
+- #minecraft:oak_logs (from Default)
+- #minecraft:acacia_logs (from Default)
+- #minecraft:birch_logs (from Default)
+- #minecraft:jungle_logs (from Default)
+- #minecraft:spruce_logs (from Default)
+- #minecraft:mangrove_logs (from Default)
+- #botania:livingwood_logs (from Botania-1.19.2-437-FORGE.jar)
+- #botania:dreamwood_logs (from Botania-1.19.2-437-FORGE.jar)
+
+#create:sleepers
+- minecraft:stone_slab (from create-1.19.2-0.5.0.i.jar)
+- minecraft:smooth_stone_slab (from create-1.19.2-0.5.0.i.jar)
+- minecraft:andesite_slab (from create-1.19.2-0.5.0.i.jar)
+
+#forge:glass/gray
+- minecraft:gray_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass/light_gray
+- minecraft:light_gray_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dyes/light_blue
+- minecraft:light_blue_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab (from Default)
+- minecraft:spruce_slab (from Default)
+- minecraft:birch_slab (from Default)
+- minecraft:jungle_slab (from Default)
+- minecraft:acacia_slab (from Default)
+- minecraft:dark_oak_slab (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:mangrove_slab (from Default)
+- botania:dreamwood_planks_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:dreamwood_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingwood_planks_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:livingwood_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:shimmerwood_planks_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:stripped_dreamwood_slab (from Botania-1.19.2-437-FORGE.jar)
+- botania:stripped_livingwood_slab (from Botania-1.19.2-437-FORGE.jar)
+- #libx:impl_wooden_slabs (from LibX-1.19.2-4.2.8.jar)
+
+#forge:dyes/white
+- minecraft:white_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#ftbultimine:excluded_tools/strict
+- mininggadgets:mininggadget? (from ftb-ultimine-forge-1902.3.5-build.65.jar)
+- ars_nouveau:wand? (from ftb-ultimine-forge-1902.3.5-build.65.jar)
+- ars_nouveau:novice_spell_book? (from ftb-ultimine-forge-1902.3.5-build.65.jar)
+- ars_nouveau:creative_spell_book? (from ftb-ultimine-forge-1902.3.5-build.65.jar)
+- ars_nouveau:archmage_spell_book? (from ftb-ultimine-forge-1902.3.5-build.65.jar)
+- ars_nouveau:apprentice_spell_book? (from ftb-ultimine-forge-1902.3.5-build.65.jar)
+
+#forge:tools/bows
+- minecraft:bow (from forge-1.19.2-43.2.4-universal.jar)
+
+#create:toolboxes
+- create:white_toolbox (from create-1.19.2-0.5.0.i.jar)
+- create:orange_toolbox (from create-1.19.2-0.5.0.i.jar)
+- create:magenta_toolbox (from create-1.19.2-0.5.0.i.jar)
+- create:light_blue_toolbox (from create-1.19.2-0.5.0.i.jar)
+- create:yellow_toolbox (from create-1.19.2-0.5.0.i.jar)
+- create:lime_toolbox (from create-1.19.2-0.5.0.i.jar)
+- create:pink_toolbox (from create-1.19.2-0.5.0.i.jar)
+- create:gray_toolbox (from create-1.19.2-0.5.0.i.jar)
+- create:light_gray_toolbox (from create-1.19.2-0.5.0.i.jar)
+- create:cyan_toolbox (from create-1.19.2-0.5.0.i.jar)
+- create:purple_toolbox (from create-1.19.2-0.5.0.i.jar)
+- create:blue_toolbox (from create-1.19.2-0.5.0.i.jar)
+- create:brown_toolbox (from create-1.19.2-0.5.0.i.jar)
+- create:green_toolbox (from create-1.19.2-0.5.0.i.jar)
+- create:red_toolbox (from create-1.19.2-0.5.0.i.jar)
+- create:black_toolbox (from create-1.19.2-0.5.0.i.jar)
+
+#minecraft:small_flowers
+- minecraft:dandelion (from Default)
+- minecraft:poppy (from Default)
+- minecraft:blue_orchid (from Default)
+- minecraft:allium (from Default)
+- minecraft:azure_bluet (from Default)
+- minecraft:red_tulip (from Default)
+- minecraft:orange_tulip (from Default)
+- minecraft:white_tulip (from Default)
+- minecraft:pink_tulip (from Default)
+- minecraft:oxeye_daisy (from Default)
+- minecraft:cornflower (from Default)
+- minecraft:lily_of_the_valley (from Default)
+- minecraft:wither_rose (from Default)
+- #botania:mystical_flowers (from Botania-1.19.2-437-FORGE.jar)
+- #botania:special_flowers (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:seeds/pumpkin
+- minecraft:pumpkin_seeds (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ore_bearing_ground/stone
+- minecraft:stone (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/black
+- minecraft:black_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dusts/redstone
+- minecraft:redstone (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dyes/pink
+- minecraft:pink_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/manasteel
+- #botania:manasteel_blocks (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:axolotl_tempt_items
+- minecraft:tropical_fish_bucket (from Default)
+
+#forge:gems/quartz
+- minecraft:quartz (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:crops/beetroot
+- minecraft:beetroot (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/blue
+- minecraft:blue_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:seeds/melon
+- minecraft:melon_seeds (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:crops/wheat
+- minecraft:wheat (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13 (from Default)
+- minecraft:music_disc_cat (from Default)
+- minecraft:music_disc_blocks (from Default)
+- minecraft:music_disc_chirp (from Default)
+- minecraft:music_disc_far (from Default)
+- minecraft:music_disc_mall (from Default)
+- minecraft:music_disc_mellohi (from Default)
+- minecraft:music_disc_stal (from Default)
+- minecraft:music_disc_strad (from Default)
+- minecraft:music_disc_ward (from Default)
+- minecraft:music_disc_11 (from Default)
+- minecraft:music_disc_wait (from Default)
+
+#botania:petals/lime
+- botania:lime_petal (from Botania-1.19.2-437-FORGE.jar)
+- botania:lime_mushroom (from Botania-1.19.2-437-FORGE.jar)
+
+#botania:petals/magenta
+- botania:magenta_petal (from Botania-1.19.2-437-FORGE.jar)
+- botania:magenta_mushroom (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:dough
+- create:dough (from create-1.19.2-0.5.0.i.jar)
+
+#forge:tools/fishing_rods
+- minecraft:fishing_rod (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:stone
+- minecraft:andesite (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diorite (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:granite (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:infested_stone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:stone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:polished_andesite (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:polished_diorite (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:polished_granite (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:polished_deepslate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:infested_deepslate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:tuff (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:tools/hoes
+- primitivestart:bone_hoe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:reinforced_bone_hoe (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:plated_bone_hoe (from primitivestart-1.19.2-1.8.0.jar)
+- minecraft:wooden_hoe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:stone_hoe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_hoe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_hoe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_hoe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_hoe (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:gems/lapis
+- minecraft:lapis_lazuli (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:gunpowder
+- minecraft:gunpowder (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:plates/brass
+- create:brass_sheet (from create-1.19.2-0.5.0.i.jar)
+
+#minecraft:wart_blocks
+- minecraft:nether_wart_block (from Default)
+- minecraft:warped_wart_block (from Default)
+
+#botania:generating_special_flowers
+- botania:dandelifeon (from Botania-1.19.2-437-FORGE.jar)
+- botania:endoflame (from Botania-1.19.2-437-FORGE.jar)
+- botania:entropinnyum (from Botania-1.19.2-437-FORGE.jar)
+- botania:gourmaryllis (from Botania-1.19.2-437-FORGE.jar)
+- botania:hydroangeas (from Botania-1.19.2-437-FORGE.jar)
+- botania:kekimurus (from Botania-1.19.2-437-FORGE.jar)
+- botania:munchdew (from Botania-1.19.2-437-FORGE.jar)
+- botania:narslimmus (from Botania-1.19.2-437-FORGE.jar)
+- botania:rafflowsia (from Botania-1.19.2-437-FORGE.jar)
+- botania:rosa_arcana (from Botania-1.19.2-437-FORGE.jar)
+- botania:shulk_me_not (from Botania-1.19.2-437-FORGE.jar)
+- botania:spectrolus (from Botania-1.19.2-437-FORGE.jar)
+- botania:thermalily (from Botania-1.19.2-437-FORGE.jar)
+
+#create:crushed_ores
+- create:crushed_iron_ore (from create-1.19.2-0.5.0.i.jar)
+- create:crushed_gold_ore (from create-1.19.2-0.5.0.i.jar)
+- create:crushed_copper_ore (from create-1.19.2-0.5.0.i.jar)
+- create:crushed_zinc_ore (from create-1.19.2-0.5.0.i.jar)
+- create:crushed_osmium_ore (from create-1.19.2-0.5.0.i.jar)
+- create:crushed_platinum_ore (from create-1.19.2-0.5.0.i.jar)
+- create:crushed_silver_ore (from create-1.19.2-0.5.0.i.jar)
+- create:crushed_tin_ore (from create-1.19.2-0.5.0.i.jar)
+- create:crushed_lead_ore (from create-1.19.2-0.5.0.i.jar)
+- create:crushed_quicksilver_ore (from create-1.19.2-0.5.0.i.jar)
+- create:crushed_aluminum_ore (from create-1.19.2-0.5.0.i.jar)
+- create:crushed_uranium_ore (from create-1.19.2-0.5.0.i.jar)
+- create:crushed_nickel_ore (from create-1.19.2-0.5.0.i.jar)
+
+#botania:glimmering_livingwood_logs
+- botania:glimmering_livingwood (from Botania-1.19.2-437-FORGE.jar)
+- botania:glimmering_livingwood_log (from Botania-1.19.2-437-FORGE.jar)
+- botania:glimmering_stripped_livingwood (from Botania-1.19.2-437-FORGE.jar)
+- botania:glimmering_stripped_livingwood_log (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:ore_rates/sparse
+- minecraft:nether_gold_ore (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:plates/obsidian
+- create:sturdy_sheet (from create-1.19.2-0.5.0.i.jar)
+
+#forge:crops
+- #forge:crops/beetroot (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:crops/carrot (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:crops/nether_wart (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:crops/potato (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:crops/wheat (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:armor
+- #forge:helmets (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- #forge:chestplates (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- #forge:leggings (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- #forge:boots (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:ore_bearing_ground/netherrack
+- minecraft:netherrack (from forge-1.19.2-43.2.4-universal.jar)
+
+#create:stone_types/crimsite
+- create:cut_crimsite (from create-1.19.2-0.5.0.i.jar)
+- create:cut_crimsite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_crimsite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_crimsite (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_crimsite_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_crimsite_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_crimsite_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:cut_crimsite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_crimsite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_crimsite_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:small_crimsite_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_crimsite_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:layered_crimsite (from create-1.19.2-0.5.0.i.jar)
+- create:crimsite_pillar (from create-1.19.2-0.5.0.i.jar)
+
+#curios:charm
+- botania:diva_charm (from Botania-1.19.2-437-FORGE.jar)
+- botania:goddess_charm (from Botania-1.19.2-437-FORGE.jar)
+- botania:monocle (from Botania-1.19.2-437-FORGE.jar)
+- botania:tiny_planet (from Botania-1.19.2-437-FORGE.jar)
+
+#bookshelf:strings
+- #forge:string (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#itemfilters:check_nbt
+- minecraft:potion (from item-filters-forge-1902.2.9-build.46.jar)
+- minecraft:splash_potion (from item-filters-forge-1902.2.9-build.46.jar)
+- minecraft:lingering_potion (from item-filters-forge-1902.2.9-build.46.jar)
+- minecraft:enchanted_book (from item-filters-forge-1902.2.9-build.46.jar)
+- minecraft:tipped_arrow (from item-filters-forge-1902.2.9-build.46.jar)
+
+#minecraft:birch_logs
+- minecraft:birch_log (from Default)
+- minecraft:birch_wood (from Default)
+- minecraft:stripped_birch_log (from Default)
+- minecraft:stripped_birch_wood (from Default)
+
+#bookshelf:boots
+- #forge:boots (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#forge:nuggets/diamond
+- snowyweaponry:diamond_chunk (from SnowyWeaponry-1.19.2-1.5.0.jar)
+
+#forge:glass_panes/purple
+- minecraft:purple_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dusts
+- #forge:dusts/mana (from Botania-1.19.2-437-FORGE.jar)
+- #forge:dusts/glowstone (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dusts/prismarine (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dusts/redstone (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass/yellow
+- minecraft:yellow_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#botania:contributor_headflowers
+- #botania:special_flowers (from Botania-1.19.2-437-FORGE.jar)
+- botania:daybloom_motif (from Botania-1.19.2-437-FORGE.jar)
+- botania:nightshade_motif (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:seeds
+- #forge:seeds/beetroot (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:seeds/melon (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:seeds/pumpkin (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:seeds/wheat (from forge-1.19.2-43.2.4-universal.jar)
+
+#botania:rods
+- botania:dirt_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:skydirt_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:terraform_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:cobble_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:water_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:tornado_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:fire_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:divining_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:smelt_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:exchange_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:rainbow_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:gravity_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:missile_rod (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:helmets
+- minecraft:leather_helmet (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:chainmail_helmet (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:iron_helmet (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:golden_helmet (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:diamond_helmet (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:netherite_helmet (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+- minecraft:turtle_helmet (from Bookshelf-Forge-1.19.2-16.2.17.jar)
+
+#create:stone_types/asurine
+- create:cut_asurine (from create-1.19.2-0.5.0.i.jar)
+- create:cut_asurine_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_asurine_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_asurine (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_asurine_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_asurine_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_asurine_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:cut_asurine_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_asurine_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_asurine_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:small_asurine_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_asurine_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:layered_asurine (from create-1.19.2-0.5.0.i.jar)
+- create:asurine_pillar (from create-1.19.2-0.5.0.i.jar)
+
+#minecraft:oak_logs
+- minecraft:oak_log (from Default)
+- minecraft:oak_wood (from Default)
+- minecraft:stripped_oak_log (from Default)
+- minecraft:stripped_oak_wood (from Default)
+
+#libx:impl_buttons
+
+#forge:barrels
+- #forge:barrels/wooden (from forge-1.19.2-43.2.4-universal.jar)
+
+#quark:reacharound_able
+- botania:dirt_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:cobble_rod (from Botania-1.19.2-437-FORGE.jar)
+- botania:black_hole_talisman (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:ores/lapis
+- #minecraft:lapis_ores (from forge-1.19.2-43.2.4-universal.jar)
+
+#curios:belt
+- botania:knockback_belt (from Botania-1.19.2-437-FORGE.jar)
+- botania:speed_up_belt (from Botania-1.19.2-437-FORGE.jar)
+- botania:super_travel_belt (from Botania-1.19.2-437-FORGE.jar)
+- botania:travel_belt (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:slimeballs
+- minecraft:slime_ball (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:raw_materials/zinc
+- create:raw_zinc (from create-1.19.2-0.5.0.i.jar)
+
+#minecraft:jungle_logs
+- minecraft:jungle_log (from Default)
+- minecraft:jungle_wood (from Default)
+- minecraft:stripped_jungle_log (from Default)
+- minecraft:stripped_jungle_wood (from Default)
+
+#minecraft:lectern_books
+- minecraft:written_book (from Default)
+- minecraft:writable_book (from Default)
+- patchouli:guide_book (from Patchouli-1.19.2-77.jar)
+
+#forge:chests/ender
+- minecraft:ender_chest (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:spruce_logs
+- minecraft:spruce_log (from Default)
+- minecraft:spruce_wood (from Default)
+- minecraft:stripped_spruce_log (from Default)
+- minecraft:stripped_spruce_wood (from Default)
+
+#botania:elementium_ingots
+- botania:elementium_ingot (from Botania-1.19.2-437-FORGE.jar)
+
+#create:blaze_burner_fuel/regular
+
+#forge:fence_gates/wooden
+- minecraft:oak_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:spruce_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:birch_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:jungle_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:acacia_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:dark_oak_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:crimson_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:warped_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:mangrove_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/raw_copper
+- minecraft:raw_copper_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#libx:impl_wooden_doors
+
+#forge:glass_panes/lime
+- minecraft:lime_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:shears
+- primitivestart:bone_shears (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:reinforced_bone_shears (from primitivestart-1.19.2-1.8.0.jar)
+- primitivestart:plated_bone_shears (from primitivestart-1.19.2-1.8.0.jar)
+- botania:manasteel_shears (from Botania-1.19.2-437-FORGE.jar)
+- botania:elementium_shears (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:shears (from forge-1.19.2-43.2.4-universal.jar)
+
+#botania:semi_disposable
+- minecraft:andesite (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:diorite (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:granite (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:tuff (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:calcite (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:stone (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:basalt (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:deepslate (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:dripstone_block (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:pointed_dripstone (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:moss_block (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:sandstone (from Botania-1.19.2-437-FORGE.jar)
+- minecraft:red_sandstone (from Botania-1.19.2-437-FORGE.jar)
+- quark:jasper? (from Botania-1.19.2-437-FORGE.jar)
+- quark:limestone? (from Botania-1.19.2-437-FORGE.jar)
+- quark:marble? (from Botania-1.19.2-437-FORGE.jar)
+- quark:slate? (from Botania-1.19.2-437-FORGE.jar)
+
+#botania:runes
+- botania:rune_water (from Botania-1.19.2-437-FORGE.jar)
+- botania:rune_fire (from Botania-1.19.2-437-FORGE.jar)
+- botania:rune_earth (from Botania-1.19.2-437-FORGE.jar)
+- botania:rune_air (from Botania-1.19.2-437-FORGE.jar)
+- botania:rune_spring (from Botania-1.19.2-437-FORGE.jar)
+- botania:rune_summer (from Botania-1.19.2-437-FORGE.jar)
+- botania:rune_autumn (from Botania-1.19.2-437-FORGE.jar)
+- botania:rune_winter (from Botania-1.19.2-437-FORGE.jar)
+- botania:rune_mana (from Botania-1.19.2-437-FORGE.jar)
+- botania:rune_lust (from Botania-1.19.2-437-FORGE.jar)
+- botania:rune_gluttony (from Botania-1.19.2-437-FORGE.jar)
+- botania:rune_greed (from Botania-1.19.2-437-FORGE.jar)
+- botania:rune_sloth (from Botania-1.19.2-437-FORGE.jar)
+- botania:rune_wrath (from Botania-1.19.2-437-FORGE.jar)
+- botania:rune_envy (from Botania-1.19.2-437-FORGE.jar)
+- botania:rune_pride (from Botania-1.19.2-437-FORGE.jar)
+
+#libx:impl_doors
+
+#minecraft:chest_boats
+- minecraft:oak_chest_boat (from Default)
+- minecraft:spruce_chest_boat (from Default)
+- minecraft:birch_chest_boat (from Default)
+- minecraft:jungle_chest_boat (from Default)
+- minecraft:acacia_chest_boat (from Default)
+- minecraft:dark_oak_chest_boat (from Default)
+- minecraft:mangrove_chest_boat (from Default)
+
+#botania:mana_dusts
+- botania:mana_powder (from Botania-1.19.2-437-FORGE.jar)
+
+#botania:petals/blue
+- botania:blue_petal (from Botania-1.19.2-437-FORGE.jar)
+- botania:blue_mushroom (from Botania-1.19.2-437-FORGE.jar)
+
+#create:stone_types/ochrum
+- create:cut_ochrum (from create-1.19.2-0.5.0.i.jar)
+- create:cut_ochrum_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_ochrum_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_ochrum (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_ochrum_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_ochrum_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_ochrum_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:cut_ochrum_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_ochrum_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_ochrum_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:small_ochrum_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_ochrum_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:layered_ochrum (from create-1.19.2-0.5.0.i.jar)
+- create:ochrum_pillar (from create-1.19.2-0.5.0.i.jar)
+
+#minecraft:flowers
+- #minecraft:small_flowers (from Default)
+- #minecraft:tall_flowers (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+
+#minecraft:planks
+- minecraft:oak_planks (from Default)
+- minecraft:spruce_planks (from Default)
+- minecraft:birch_planks (from Default)
+- minecraft:jungle_planks (from Default)
+- minecraft:acacia_planks (from Default)
+- minecraft:dark_oak_planks (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:mangrove_planks (from Default)
+- botania:livingwood_planks (from Botania-1.19.2-437-FORGE.jar)
+- botania:mossy_livingwood_planks (from Botania-1.19.2-437-FORGE.jar)
+- botania:framed_livingwood (from Botania-1.19.2-437-FORGE.jar)
+- botania:pattern_framed_livingwood (from Botania-1.19.2-437-FORGE.jar)
+- botania:dreamwood_planks (from Botania-1.19.2-437-FORGE.jar)
+- botania:mossy_dreamwood_planks (from Botania-1.19.2-437-FORGE.jar)
+- botania:framed_dreamwood (from Botania-1.19.2-437-FORGE.jar)
+- botania:pattern_framed_dreamwood (from Botania-1.19.2-437-FORGE.jar)
+- botania:shimmerwood_planks (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:fox_food
+- minecraft:sweet_berries (from Default)
+- minecraft:glow_berries (from Default)
+
+#botania:special_flowers
+- #botania:misc_special_flowers (from Botania-1.19.2-437-FORGE.jar)
+- #botania:generating_special_flowers (from Botania-1.19.2-437-FORGE.jar)
+- #botania:functional_special_flowers (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:cobblestone
+- #forge:cobblestone/normal (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:cobblestone/infested (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:cobblestone/mossy (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:cobblestone/deepslate (from forge-1.19.2-43.2.4-universal.jar)
+
+#botania:functional_special_flowers
+- botania:agricarnation (from Botania-1.19.2-437-FORGE.jar)
+- botania:agricarnation_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:bellethorn (from Botania-1.19.2-437-FORGE.jar)
+- botania:bellethorn_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:bubbell (from Botania-1.19.2-437-FORGE.jar)
+- botania:bubbell_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:clayconia (from Botania-1.19.2-437-FORGE.jar)
+- botania:clayconia_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:daffomill (from Botania-1.19.2-437-FORGE.jar)
+- botania:dreadthorn (from Botania-1.19.2-437-FORGE.jar)
+- botania:exoflame (from Botania-1.19.2-437-FORGE.jar)
+- botania:fallen_kanade (from Botania-1.19.2-437-FORGE.jar)
+- botania:heisei_dream (from Botania-1.19.2-437-FORGE.jar)
+- botania:hopperhock (from Botania-1.19.2-437-FORGE.jar)
+- botania:hopperhock_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:hyacidus (from Botania-1.19.2-437-FORGE.jar)
+- botania:jaded_amaranthus (from Botania-1.19.2-437-FORGE.jar)
+- botania:jiyuulia (from Botania-1.19.2-437-FORGE.jar)
+- botania:jiyuulia_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:labellia (from Botania-1.19.2-437-FORGE.jar)
+- botania:loonium (from Botania-1.19.2-437-FORGE.jar)
+- botania:marimorphosis (from Botania-1.19.2-437-FORGE.jar)
+- botania:marimorphosis_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:medumone (from Botania-1.19.2-437-FORGE.jar)
+- botania:orechid (from Botania-1.19.2-437-FORGE.jar)
+- botania:orechid_ignem (from Botania-1.19.2-437-FORGE.jar)
+- botania:pollidisiac (from Botania-1.19.2-437-FORGE.jar)
+- botania:rannuncarpus (from Botania-1.19.2-437-FORGE.jar)
+- botania:rannuncarpus_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:solegnolia (from Botania-1.19.2-437-FORGE.jar)
+- botania:solegnolia_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:spectranthemum (from Botania-1.19.2-437-FORGE.jar)
+- botania:tangleberrie (from Botania-1.19.2-437-FORGE.jar)
+- botania:tangleberrie_chibi (from Botania-1.19.2-437-FORGE.jar)
+- botania:tigerseye (from Botania-1.19.2-437-FORGE.jar)
+- botania:vinculotus (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:diamond_ores
+- minecraft:diamond_ore (from Default)
+- minecraft:deepslate_diamond_ore (from Default)
+
+#forge:gems/amethyst
+- minecraft:amethyst_shard (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass/silica
+- minecraft:glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:black_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:blue_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:brown_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:cyan_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:gray_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:green_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:light_blue_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:light_gray_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:lime_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:magenta_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:orange_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:pink_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:purple_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:red_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:white_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:yellow_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dyes/brown
+- minecraft:brown_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/gold
+- minecraft:gold_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ores
+- #forge:ores/coal (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/copper (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/diamond (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/emerald (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/gold (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/iron (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/lapis (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/redstone (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/quartz (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/netherite_scrap (from forge-1.19.2-43.2.4-universal.jar)
+- create:zinc_ore (from create-1.19.2-0.5.0.i.jar)
+- create:deepslate_zinc_ore (from create-1.19.2-0.5.0.i.jar)
+
+#botania:petals/brown
+- botania:brown_petal (from Botania-1.19.2-437-FORGE.jar)
+- botania:brown_mushroom (from Botania-1.19.2-437-FORGE.jar)
+
+#minecraft:candles
+- minecraft:candle (from Default)
+- minecraft:white_candle (from Default)
+- minecraft:orange_candle (from Default)
+- minecraft:magenta_candle (from Default)
+- minecraft:light_blue_candle (from Default)
+- minecraft:yellow_candle (from Default)
+- minecraft:lime_candle (from Default)
+- minecraft:pink_candle (from Default)
+- minecraft:gray_candle (from Default)
+- minecraft:light_gray_candle (from Default)
+- minecraft:cyan_candle (from Default)
+- minecraft:purple_candle (from Default)
+- minecraft:blue_candle (from Default)
+- minecraft:brown_candle (from Default)
+- minecraft:green_candle (from Default)
+- minecraft:red_candle (from Default)
+- minecraft:black_candle (from Default)
+
+#forge:rods/wooden
+- minecraft:stick (from forge-1.19.2-43.2.4-universal.jar)
+
+#curios:curio
+- botania:cosmetic_black_bowtie (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_black_tie (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_red_glasses (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_puffy_scarf (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_engineer_goggles (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_eyepatch (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_wicked_eyepatch (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_red_ribbons (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_pink_flower_bud (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_polka_dotted_bows (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_blue_butterfly (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_cat_ears (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_witch_pin (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_devil_tail (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_kamui_eye (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_googly_eyes (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_four_leaf_clover (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_clock_eye (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_unicorn_horn (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_devil_horns (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_hyper_plus (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_botanist_emblem (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_ancient_mask (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_eerie_mask (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_alien_antenna (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_anaglyph_glasses (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_orange_shades (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_groucho_glasses (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_thick_eyebrows (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_lusitanic_shield (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_tiny_potato_mask (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_questgiver_mark (from Botania-1.19.2-437-FORGE.jar)
+- botania:cosmetic_thinking_hand (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:dusts/prismarine
+- minecraft:prismarine_shard (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:fences
+- #forge:fences/nether_brick (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:fences/wooden (from forge-1.19.2-43.2.4-universal.jar)
+
+#create:deployable_drink
+- minecraft:milk_bucket (from create-1.19.2-0.5.0.i.jar)
+- minecraft:potion (from create-1.19.2-0.5.0.i.jar)
+
+#create:stone_types/dripstone
+- create:cut_dripstone (from create-1.19.2-0.5.0.i.jar)
+- create:cut_dripstone_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_dripstone_wall (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_dripstone (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_dripstone_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:polished_cut_dripstone_wall (from create-1.19.2-0.5.0.i.jar)
+- create:cut_dripstone_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:cut_dripstone_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:cut_dripstone_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:small_dripstone_bricks (from create-1.19.2-0.5.0.i.jar)
+- create:small_dripstone_brick_stairs (from create-1.19.2-0.5.0.i.jar)
+- create:small_dripstone_brick_wall (from create-1.19.2-0.5.0.i.jar)
+- create:layered_dripstone (from create-1.19.2-0.5.0.i.jar)
+- create:dripstone_pillar (from create-1.19.2-0.5.0.i.jar)
+
+#forge:storage_blocks/diamond
+- minecraft:diamond_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:freeze_immune_wearables
+- minecraft:leather_boots (from Default)
+- minecraft:leather_leggings (from Default)
+- minecraft:leather_chestplate (from Default)
+- minecraft:leather_helmet (from Default)
+- minecraft:leather_horse_armor (from Default)
+- botania:ice_pendant (from Botania-1.19.2-437-FORGE.jar)
+
+#forge:plates/copper
+- create:copper_sheet (from create-1.19.2-0.5.0.i.jar)
+
+#forge:ore_bearing_ground/deepslate
+- minecraft:deepslate (from forge-1.19.2-43.2.4-universal.jar)
+
+#botania:petals/white
+- botania:white_petal (from Botania-1.19.2-437-FORGE.jar)
+- botania:white_mushroom (from Botania-1.19.2-437-FORGE.jar)

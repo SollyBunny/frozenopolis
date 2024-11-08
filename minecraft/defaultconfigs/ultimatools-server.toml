@@ -1,0 +1,50 @@
+
+[ores]
+	#All the ores for upgrading nether ores, order matters
+	nether = ["minecraft:nether_quartz_ore", "minecraft:nether_gold_ore"]
+	#All the ores for upgrading normal ores, order matters
+	overworld = ["minecraft:iron_ore", "minecraft:redstone_ore", "minecraft:lapis_ore", "minecraft:gold_ore", "minecraft:diamond_ore", "minecraft:emerald_ore"]
+
+#Cooldowns for the crystals
+[cooldowns]
+
+	[cooldowns.normal]
+		#Range: > 0
+		beginner = 200
+		#Range: > 0
+		ore_better = 200
+		#Range: > 0
+		cursed_knight = 1200
+		#Range: > 0
+		blood_magician = 1200
+		#Range: > 0
+		ultima_god = 200
+		#Range: > 0
+		soothsayer = 200
+		#Range: > 0
+		farmer = 1200
+		#Range: > 0
+		ultima_fighter = 200
+		#Range: > 0
+		scholar = 200
+
+	[cooldowns.krypto]
+		#Range: > 0
+		krypto_farmer = 200
+		#Range: > 0
+		krypto_soothsayer = 200
+		#Range: > 0
+		krypto_cursed_knight = 200
+		#Range: > 0
+		krypto_beginner = 200
+		#Range: > 0
+		krypto_blood_magician = 200
+		#Range: > 0
+		krypto_scholar = 200
+
+[animals]
+	#All animals which can spawn in water randomly
+	water_animals = ["minecraft:cod", "minecraft:dolphin", "minecraft:pufferfish", "minecraft:salmon", "minecraft:squid", "minecraft:tropical_fish"]
+	#All animals which can spawn randomly
+	animals = ["minecraft:bat", "minecraft:bee", "minecraft:cat", "minecraft:chicken", "minecraft:cow", "minecraft:donkey", "minecraft:fox", "minecraft:horse", "minecraft:llama", "minecraft:mule", "minecraft:mooshroom", "minecraft:ocelot", "minecraft:panda", "minecraft:parrot", "minecraft:pig", "minecraft:polar_bear", "minecraft:rabbit", "minecraft:sheep", "minecraft:turtle", "minecraft:wolf"]
+

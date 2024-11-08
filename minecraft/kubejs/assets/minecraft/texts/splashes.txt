@@ -1,0 +1,434 @@
+§bAs seen on TV!
+§bAwesome!
+§b100% pure!
+§bMay contain nuts!
+§bMore polygons!
+§bModerately attractive!
+§bLimited edition!
+§bFlashing letters!
+§bIt's here!
+§bBest in class!
+§bIt's finished!
+§bKind of dragon free!
+§bExcitement!
+§bMore than 500 sold!
+§bOne of a kind!
+§bHeaps of hits on YouTube!
+§bIndev!
+§bSpiders everywhere!
+§bCheck it out!
+§bHoly cow, man!
+§bIt's a game!
+§bMade in Sweden!
+§bUses LWJGL!
+§bReticulating splines!
+§bMinecraft!
+§bYaaay!
+§bSingleplayer!
+§bKeyboard compatible!
+§bIngots!
+§bExploding creepers!
+§bThat's no moon!
+§bl33t!
+§bCreate!
+§bSurvive!
+§bDungeon!
+§bExclusive!
+§bThe bee's knees!
+§bClosed source!
+§bClassy!
+§bWow!
+§bNot on steam!
+§bOh man!
+§bAwesome community!
+§bPixels!
+§bTeetsuuuuoooo!
+§bKaaneeeedaaaa!
+§bNow with difficulty!
+§bEnhanced!
+§b90% bug free!
+§bPretty!
+§b12 herbs and spices!
+§bFat free!
+§bAbsolutely no memes!
+§bFree dental!
+§bAsk your doctor!
+§bMinors welcome!
+§bCloud computing!
+§bLegal in Finland!
+§bHard to label!
+§bTechnically good!
+§bBringing home the bacon!
+§bIndie!
+§bGOTY!
+§bCeci n'est pas une title screen!
+§bEuclidian!
+§bNow in 3D!
+§bInspirational!
+§bHerregud!
+§bComplex cellular automata!
+§bYes, sir!
+§bPlayed by cowboys!
+§bNow on OpenGL 3.2 core profile!
+§bThousands of colors!
+§bTry it!
+§bAge of Wonders is better!
+§bTry the mushroom stew!
+§bSensational!
+§bHot tamale, hot hot tamale!
+§bPlay him off, keyboard cat!
+§bGuaranteed!
+§bMacroscopic!
+§bBring it on!
+§bRandom splash!
+§bCall your mother!
+§bMonster infighting!
+§bLoved by millions!
+§bUltimate edition!
+§bFreaky!
+§bYou've got a brand new key!
+§bWater proof!
+§bUninflammable!
+§bWhoa, dude!
+§bAll inclusive!
+§bTell your friends!
+§bNP is not in P!
+§bMusic by C418!
+§bLivestreamed!
+§bHaunted!
+§bPolynomial!
+§bTerrestrial!
+§bAll is full of love!
+§bFull of stars!
+§bScientific!
+§bNot as cool as Spock!
+§bCollaborate and listen!
+§bNever dig down!
+§bTake frequent breaks!
+§bNot linear!
+§bHan shot first!
+§bNice to meet you!
+§bBuckets of lava!
+§bRide the pig!
+§bLarger than Earth!
+§bsqrt(-1) love you!
+§bPhobos anomaly!
+§bPunching wood!
+§bFalling off cliffs!
+§b1% sugar!
+§b150% hyperbole!
+§bSynecdoche!
+§bLet's danec!
+§bSeecret Friday update!
+§bReference implementation!
+§bKiss the sky!
+§b20 GOTO 10!
+§bVerlet intregration!
+§bPeter Griffin!
+§bDo not distribute!
+§bCogito ergo sum!
+§b4815162342 lines of code!
+§bA skeleton popped out!
+§bThe sum of its parts!
+§bBTAF used to be good!
+§bI miss ADOM!
+§bumop-apisdn!
+§bOICU812!
+§bBring me Ray Cokes!
+§bFinger-licking!
+§bThematic!
+§bPneumatic!
+§bSublime!
+§bOctagonal!
+§bUne baguette!
+§bGargamel plays it!
+§bRita is the new top dog!
+§bSWM forever!
+§bRepresenting Edsbyn!
+§bMatt Damon!
+§bSupercalifragilisticexpialidocious!
+§bConsummate V's!
+§bCow Tools!
+§bDouble buffered!
+§bFan fiction!
+§bFlaxkikare!
+§bJason! Jason! Jason!
+§bHotter than the sun!
+§bInternet enabled!
+§bAutonomous!
+§bEngage!
+§bFantasy!
+§bDRR! DRR! DRR!
+§bKick it root down!
+§bRegional resources!
+§bWoo, facepunch!
+§bWoo, somethingawful!
+§bWoo, tigsource!
+§bWoo, worldofminecraft!
+§bWoo, reddit!
+§bWoo, 2pp!
+§bGoogle anlyticsed!
+§bNow supports åäö!
+§bGive us Gordon!
+§bTip your waiter!
+§bVery fun!
+§b12345 is a bad password!
+§bVote for net neutrality!
+§bLives in a pineapple under the sea!
+§bMAP11 has two names!
+§bOmnipotent!
+§bGasp!
+§b...!
+§bBees, bees, bees, bees!
+§bJag känner en bot!
+§bThis text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
+§bHaha, LOL!
+§bHampsterdance!
+§bMenger sponge!
+§bidspispopd!
+§bEple (original edit)!
+§bSo fresh, so clean!
+§bSlow acting portals!
+§bTry the Nether!
+§bDon't look directly at the bugs!
+§bOh, ok, Pigmen!
+§bFinally with ladders!
+§bScary!
+§bPlay Minecraft, Watch Topgear, Get Pig!
+§bTwittered about!
+§bJump up, jump up, and get down!
+§bJoel is neat!
+§bA riddle, wrapped in a mystery!
+§bThis parrot is no more! It has ceased to be!
+§bWelcome to your Doom!
+§bStay a while, stay forever!
+§bStay a while and listen!
+§bTreatment for your rash!
+§b"Autological" is!
+§bInformation wants to be free!
+§b"Almost never" is an interesting concept!
+§bLots of truthiness!
+§bThe creeper is a spy!
+§bTuring complete!
+§bIt's groundbreaking!
+§bLet our battle's begin!
+§bThe sky is the limit!
+§bJeb has amazing hair!
+§bRyan also has amazing hair!
+§bCasual gaming!
+§bUndefeated!
+§bKinda like Lemmings!
+§bFollow the train, CJ!
+§bLeveraging synergy!
+§bThis message will never appear on the splash screen, isn't that weird?
+§bDungeonQuest is unfair!
+§b90210!
+§bCheck out the far lands!
+§bTyrion would love it!
+§bAlso try VVVVVV!
+§bAlso try Super Meat Boy!
+§bAlso try Terraria!
+§bAlso try Mount And Blade!
+§bAlso try Project Zomboid!
+§bAlso try World of Goo!
+§bAlso try Limbo!
+§bAlso try Pixeljunk Shooter!
+§bAlso try Braid!
+§bThat's super!
+§bBread is pain!
+§bRead more books!
+§bKhaaaaaaaaan!
+§bLess addictive than TV Tropes!
+§bMore addictive than lemonade!
+§bBigger than a bread box!
+§bMillions of peaches!
+§bFnord!
+§bThis is my true form!
+§bDon't bother with the clones!
+§bPumpkinhead!
+§bMade by Jeb!
+§bHas an ending!
+§bFinally complete!
+§bFeature packed!
+§bBoots with the fur!
+§bStop, hammertime!
+§bTestificates!
+§bConventional!
+§bHomeomorphic to a 3-sphere!
+§bDoesn't avoid double negatives!
+§bPlace ALL the blocks!
+§bDoes barrel rolls!
+§bMeeting expectations!
+§bPC gaming since 1873!
+§bGhoughpteighbteau tchoghs!
+§bDéjà vu!
+§bDéjà vu!
+§bGot your nose!
+§bHaley loves Elan!
+§bAfraid of the big, black bat!
+§bDoesn't use the U-word!
+§bChild's play!
+§bSee you next Friday or so!
+§bFrom the streets of Södermalm!
+§b150 bpm for 400000 minutes!
+§bTechnologic!
+§bFunk soul brother!
+§bPumpa kungen!
+§b日本ハロー！
+§b한국 안녕하세요!
+§bHelo Cymru!
+§bCześć Polsko!
+§b你好中国！
+§bΓεια σου Ελλάδα!
+§bMy life for Aiur!
+§bLennart lennart = new Lennart();
+§bI see your vocabulary has improved!
+§bWho put it there?
+§bYou can't explain that!
+§bif not ok then return end
+§bIce Cold
+§b§kFUNKY LOL
+§bBig Pointy Teeth!
+§bBekarton guards the gate!
+§bMmmph, mmph!
+§bDon't feed avocados to parrots!
+§bSwords for everyone!
+§bPlz reply to my tweet!
+§b.party()!
+§bTake her pillow!
+§bPut that cookie down!
+§bPretty scary!
+§bI have a suggestion.
+§bNow with extra hugs!
+§bJava 16 + 1 = 17!
+§bWoah.
+§bHURNERJSGER?
+§bWhat's up, Doc?
+§bNow contains 32 random daily cats!
+§bThat's Numberwang!
+§bpls rt
+§bDo you want to join my server?
+§bPut a little fence around it!
+§bThrow a blanket over it!
+§bOne day, somewhere in the future, my work will be quoted!
+§bNow with additional stuff!
+§bExtra things!
+§bYay, puppies for everyone!
+§bSo sweet, like a nice bon bon!
+§bVery influential in its circle!
+§bNow With Multiplayer!
+§bRise from your grave!
+§bWarning! A huge battleship "STEVE" is approaching fast!
+§bBlue warrior shot the food!
+§bRun, coward! I hunger!
+§bFlavor with no seasoning!
+§bStrange, but not a stranger!
+§bTougher than diamonds, rich like cream!
+§bIt swings, it jives!
+§bCruising streets for gold!
+§bTake an eggbeater and beat it against a skillet!
+§bMake me a table, a funky table!
+§bTake the elevator to the mezzanine!
+§bStop being reasonable, this is the Internet!
+§b/give @a hugs 64
+§bThis is good for Realms.
+§bAny computer is a laptop if you're brave enough!
+§bDo it all, everything!
+§bWhere there is not light, there can spider!
+§bGNU Terry Pratchett
+§bMore Digital!
+§bdoot doot
+§bFalling with style!
+§bThere's no stopping the Trollmaso
+§bThrow yourself at the ground and miss
+§bRule #1: it's never my fault
+§bReplaced molten cheese with blood?
+§bAbsolutely fixed relatively broken coordinates
+§bBoats FTW
+§bJavalicious edition
+§bShould not be played while driving
+§bYou're going too fast!
+§bDon't feed chocolate to parrots!
+§bThe true meaning of covfefe
+§bAn illusion! What are you hiding?
+§bSomething's not quite right...
+§bThank you for the fish!
+§bAll rumors are true!
+§bTruly gone fishing!
+§bRainbow turtle?
+§bSomething funny!
+§bI need more context.
+§bAhhhhhh!
+§bDon't worry, be happy!
+§bWater bottle!
+§bWhat's the question?
+§bPlant a tree!
+§bGo to the dentist!
+§bWhat do you expect?
+§bLook mum, I'm in a splash!
+§bIt came from space.
+§bAwesome game design right there!
+§bPh1lza had a good run!
+§b10 years of Mining and Crafting!
+§bPing the human!
+§bIn case it isn't obvious, foxes aren't players.
+§bBuzzy Bees!
+§bMinecraft Java Edition presents: Disgusting Bugs
+§bWash your hands!
+§bSoap and water!
+§bSupport local businesses!
+§bStay home and play games!
+§bStay safe!
+§bStay strong!
+§bCough or sneeze into your elbow!
+§bDon’t touch your face!
+§bSupport elderly relatives and friends!
+§bPrepare, but don’t hoard!
+§bGamers unite – separately in your own homes!
+§bSave the world – stay inside!
+§bShop for your elders!
+§bHang out with your friends online!
+§bHoney, I grew the bees!
+§bFind your claw!
+§bEverybody do the Leif!
+§b<3 Max & 99 & Ducky!
+§bBushy eyebrows!
+§bEdit is a name!
+§bFrom free range developers!
+§bMusic by Lena Raine!
+§bAww man!
+§b#minecraftfarms
+§bAnd my pickaxe!
+§bEnvision! Create! Share!
+§bFabulous graphics!
+§bAlso try Minecraft Dungeons!
+§bVanilla!
+§bMay contain traces of citrus!
+§bZoglin!?
+§bBlack lives matter!
+§bBe anti-racist!
+§bLearn about allyship!
+§bSpeak OUT against injustice and UP for equality!
+§bAmplify and listen to BIPOC voices!
+§bEducate your friends on anti-racism!
+§bSupport the BIPOC community and creators!
+§bStand up for equality in your community!
+§b[this splash text is now available]
+§bContains simulated goats!
+§bHome-made!
+§bThere's <<a cat on ,my keyboard!~
+§bThe cutest predator you'll ever meet!
+§bNow you are thinking with pistons!
+§bGet to the coppah!
+§bBoard game version also available!
+§bHoney, I waxed the copper!
+§bPlant-based light sources!
+§bMade by "real" people!
+§bShriek like a Sculk Shrieker!
+§bWho let the frogs out?
+§bRIBBIT!
+§bCroak team!
+§bNooooooooooooo!
+§bFlower forest TM perfume
+§bHat Fridays!
+§b

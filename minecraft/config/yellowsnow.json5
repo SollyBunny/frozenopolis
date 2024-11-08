@@ -1,0 +1,20 @@
+{
+  // A list of all living entities which can't pee.
+  // Example: 
+  // "minecraft:cow"
+  // "minecraft:zombie"
+  // This is a resource list. See https://moddingx.org/libx/org/moddingx/libx/util/data/ResourceList.html#use_resource_lists_in_configs
+  "forbiddenToPee": {
+    "allow_list": false,
+    "elements": [
+      "minecraft:player"
+    ]
+  },
+  
+  // Time in seconds a living entity needs to stand on snow to turn it into yellow snow
+  // Range: 1 - 107374182
+  "peeDuration": 5,
+  
+  // If this is turned on, yellow snow is able to spread to other snow
+  "spreadable": true
+}

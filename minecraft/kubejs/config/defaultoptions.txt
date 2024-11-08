@@ -1,0 +1,5 @@
+autoJump:false
+soundCategory_weather:0.24
+key_iris.keybind.reload:key.keyboard.up:CONTROL
+key_iris.keybind.toggleShaders:key.keyboard.down:CONTROL
+key_iris.keybind.shaderPackSelection:key.keyboard.left:CONTROL

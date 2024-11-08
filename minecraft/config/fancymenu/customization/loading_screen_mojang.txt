@@ -1,0 +1,65 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = kubejs/assets/frozenopolis/fancymenu/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 226
+  width = 508
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 423645e9-e466-4f44-ba1e-3f9d5afc59481681920917227
+  y = 191
+  height = 126
+}
+
+customization {
+  custom_color_hex = #73CCEC
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = f532c600-f3ee-4055-ae04-34c50b4ec4be1681920917233
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 226
+  width = 508
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = a19ad5dc-03fa-42c6-8e35-98f37d1c7ed91681920917234
+  y = 418
+  height = 10
+}
+
+customization {
+  path = kubejs/assets/frozenopolis/fancymenu/mojang.png
+  orientation = top-left
+  x = 0
+  width = %guiwidth%
+  action = addtexture
+  actionid = d8bf975b-3ed4-4a7b-8e0f-034e4d970c411681922851296
+  y = 0
+  height = %guiheight%
+}
+

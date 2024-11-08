@@ -1,0 +1,148 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "blhotr_wip_title"
+	group: ""
+	id: "711BAE32A59A2DF4"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["3B6F2AA923D0E46E"]
+			description: ["Place model data in this and kill mobs whilst in your inventory to imporve the data model"]
+			id: "604C493B3D730298"
+			rewards: [{
+				id: "1CC986B2C6449BDE"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "094325FBBA81124A"
+				item: "hostilenetworks:deep_learner"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			description: ["Used inside the simulation chamber"]
+			id: "4B3270531A544088"
+			rewards: [{
+				id: "23CA6710C111410F"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6C9B86CD41F01F65"
+				item: "hostilenetworks:empty_prediction"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"604C493B3D730298"
+				"4B3270531A544088"
+			]
+			description: ["The data model can then be palced inside a simulation chamber to simulate mob drops. You must have a basic model or higher for it to work"]
+			id: "0AA6EC42BDFB54FB"
+			rewards: [{
+				id: "03A39425270458A2"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "78EB65EDA0AECDF0"
+				item: "hostilenetworks:sim_chamber"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			description: ["Right click on a mob that you want to start collecting data for"]
+			id: "3B6F2AA923D0E46E"
+			rewards: [{
+				id: "2ECD0059BE56EE6F"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4ECFD22DEDD66672"
+				item: "hostilenetworks:blank_data_model"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0AA6EC42BDFB54FB"]
+			description: ["Used to duplicate certain mob drops"]
+			id: "44008F679D6BE4F8"
+			rewards: [{
+				id: "1AD96399D60703B8"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "38EF2F90FCBBAF07"
+				item: "hostilenetworks:overworld_prediction"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["44008F679D6BE4F8"]
+			description: ["Can be crafted or obtained"]
+			id: "63DDE82D5C57BF69"
+			tasks: [{
+				id: "13FCD15E6EACD621"
+				item: "hostilenetworks:nether_prediction"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["37F95745761A80DF"]
+			description: ["WOW"]
+			id: "28F12482CBD7C95F"
+			tasks: [{
+				id: "23DE395E6C82905E"
+				item: "hostilenetworks:end_prediction"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"7FDB9B3D248B5D24"
+				"63DDE82D5C57BF69"
+			]
+			description: ["Used to covert nether predictions into ender ones"]
+			id: "37F95745761A80DF"
+			tasks: [{
+				id: "4B0B722773A562B0"
+				item: "botania:ender_eye_block"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			description: ["Summon the wither"]
+			id: "7FDB9B3D248B5D24"
+			tasks: [{
+				id: "459EF8884A91F8D4"
+				item: "minecraft:nether_star"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+	]
+	title: "&b&lHot:&r Simulating Resources"
+}

@@ -1,0 +1,1062 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "wood"
+	group: ""
+	id: "2FE275F0940E30C2"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2B126E93619D8BBD"]
+			description: ["Punch leaves get stick... wait what?"]
+			id: "6E3DDAB715FB4268"
+			rewards: [{
+				id: "1AD111D887FC293C"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Obtain &bx16 [Sticks]"
+			tasks: [{
+				count: 16L
+				id: "22DFAD54F2C46074"
+				item: "minecraft:stick"
+				type: "item"
+			}]
+			title: "Sticks \\& ....Snow ?"
+			x: -20.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["6E3DDAB715FB4268"]
+			description: ["4 sticks can be used to make a plank"]
+			id: "592A2546E920E8A0"
+			rewards: [{
+				id: "6D25CC7E470D67EE"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &bx4 [Improvised Planks]"
+			tasks: [{
+				count: 4L
+				id: "4C37DF0E61F3092C"
+				item: "primitivestart:improvised_planks"
+				type: "item"
+			}]
+			title: "Nailed It"
+			x: -18.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["592A2546E920E8A0"]
+			description: ["Bigger and better crafting"]
+			id: "4DDF48B3B6F90107"
+			rewards: [{
+				id: "2690A0E18191BB52"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Crafting Table]"
+			tasks: [{
+				id: "0269DD09B83A2C96"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			title: "I.C.E (I Craft Everything) Now"
+			x: -16.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["4DDF48B3B6F90107"]
+			description: ["Used to turn ice into chipped ice"]
+			id: "7FEC878D961236C9"
+			rewards: [{
+				id: "519CF373838AFE81"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Ice Chisel]"
+			tasks: [{
+				id: "7BF9BD2D3B1C3470"
+				item: {
+					Count: 1b
+					id: "iceopolis:ice_chisel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Carving Out A Better World !"
+			x: -14.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["7FEC878D961236C9"]
+			description: ["Right click ice into chipped ice, then break"]
+			id: "46D55A5AEFE948E4"
+			rewards: [{
+				id: "0629D3EC03599DAB"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Obtain &b[Ice Shard]"
+			tasks: [{
+				id: "52B5F66373C411DE"
+				item: "iceopolis:ice_shard"
+				type: "item"
+			}]
+			title: "Cold Fragments "
+			x: -13.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["4D420123E33C5B7F"]
+			description: ["Can be used to break stone"]
+			id: "3DD0C16EBFC44850"
+			rewards: [{
+				id: "58AB70A3DD466612"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Ice Pickaxe]"
+			tasks: [{
+				id: "628B97D368E4F902"
+				item: {
+					Count: 1b
+					id: "iceopolis:ice_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Ice Ice Baby"
+			x: -10.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["46D55A5AEFE948E4"]
+			description: ["Made from ice shards"]
+			id: "4D420123E33C5B7F"
+			rewards: [{
+				id: "67D281C601352879"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "78BB0EC34D2BA42B"
+				item: "iceopolis:sharpend_ice"
+				type: "item"
+			}]
+			title: "Refined Fragments"
+			x: -12.0d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"57F310166C280610"
+				"17F8FE3619075A77"
+			]
+			description: ["Something to keep you warm and To Cook with\\n\\nPS: fire will go out"]
+			id: "7E1B7B85499C7178"
+			rewards: [{
+				id: "79CA3E1D108D41E1"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Campfire]"
+			tasks: [{
+				id: "5C5FAB091DB75B92"
+				item: "minecraft:campfire"
+				type: "item"
+			}]
+			title: "Bonfire Lit!"
+			x: -18.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["4D420123E33C5B7F"]
+			description: ["Used to break logs"]
+			id: "7E01E66174E7E38D"
+			rewards: [{
+				id: "03FCB3393DA7340D"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Ice Axe]"
+			tasks: [{
+				id: "1D3349ED55B7EC14"
+				item: {
+					Count: 1b
+					id: "iceopolis:ice_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Finally... An Upgrade!"
+			x: -14.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["6E3DDAB715FB4268"]
+			description: ["Can be used to light a campfire and set normal fires, keeps you warm"]
+			id: "17F8FE3619075A77"
+			rewards: [{
+				id: "3C85525BB84B2A57"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Fire Sticks]"
+			tasks: [{
+				id: "28E0CA6445EEC100"
+				item: {
+					Count: 1b
+					id: "firesticks:fire_stick"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Not Quite A Flint And Steel"
+			x: -19.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7E1B7B85499C7178"]
+			description: ["Logs can be burned on a campfire to make charcoal"]
+			id: "00D2B9A631E0EBC9"
+			rewards: [{
+				id: "020AF363E35FA5E5"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Make &b[Charcoal]"
+			tasks: [{
+				id: "2C15111B57B22BA0"
+				item: "minecraft:charcoal"
+				type: "item"
+			}]
+			title: "Fuel Source !"
+			x: -20.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["7E01E66174E7E38D"]
+			description: ["Axes can be used to get logs"]
+			id: "57F310166C280610"
+			rewards: [{
+				id: "5CAA25F2D97A6C38"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Obtain &b[Any Log]"
+			tasks: [{
+				id: "28707558E6D092A5"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:overworld_natural_logs"
+					}
+				}
+				title: "Any #minecraft:overworld_natural_logs"
+				type: "item"
+			}]
+			title: "Wood For Days"
+			x: -16.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["00D2B9A631E0EBC9"]
+			description: [
+				"Let there be light"
+				"Tourches Can Warm You Up If You Stand Near Them"
+			]
+			id: "7F17C54380A0FB4A"
+			rewards: [{
+				id: "3452A5CE710ABBCC"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Torch]"
+			tasks: [{
+				id: "15427D4DA9A4F37D"
+				item: "minecraft:torch"
+				type: "item"
+			}]
+			title: "I See Light !"
+			x: -22.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["40ECD677945C5069"]
+			description: ["A campfire can be used to break down a bone block into bones"]
+			id: "2B4E232237685FFD"
+			rewards: [{
+				id: "0B2DD24CF51D1529"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Make &b[Bone]"
+			tasks: [{
+				id: "392CCEC1F377483F"
+				item: "minecraft:bone"
+				type: "item"
+			}]
+			title: "....May Break My Bones"
+			x: -8.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2F2F4D7CCB0D798D"]
+			description: ["A block of bone meal"]
+			id: "40ECD677945C5069"
+			rewards: [{
+				id: "4101324F259603F2"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Bone Block]"
+			tasks: [{
+				id: "1FB11D570B689F32"
+				item: "minecraft:bone_block"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7886C4FCE7BF269E"]
+			description: ["Made on a campfire, can be used to make dirt"]
+			id: "2F2F4D7CCB0D798D"
+			rewards: [{
+				id: "79964F8220552DA7"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Make &b[Bonemeal]"
+			tasks: [{
+				id: "5EB66A920AA5C940"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			x: -8.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5AFA25613AA634A2"]
+			description: ["Snow and stone can be used to make calcite"]
+			id: "7886C4FCE7BF269E"
+			rewards: [{
+				id: "5BF1F4BA54F7B7A7"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Calcite]"
+			tasks: [{
+				id: "43E810DF34ED0284"
+				item: "minecraft:calcite"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4ED1AEAA135E0E57"]
+			description: ["Can be cooked on the campfire"]
+			id: "5AFA25613AA634A2"
+			rewards: [{
+				id: "77705AC1C3F6A023"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Make &b[Stone]"
+			tasks: [{
+				id: "17011D87F46604B2"
+				item: "minecraft:stone"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3DD0C16EBFC44850"]
+			description: ["Obtained when breaking stone"]
+			id: "4ED1AEAA135E0E57"
+			rewards: [{
+				id: "093332F3FD7AEB62"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Obtain &b[Cobblestone]"
+			tasks: [{
+				id: "623F059FD6376BDC"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			x: -8.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2F2F4D7CCB0D798D"]
+			id: "0A7A763A3B324768"
+			rewards: [{
+				id: "5F767A0DA08ADEE2"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[White Dye]"
+			tasks: [{
+				id: "7714CD9F6C86C2D6"
+				item: "minecraft:white_dye"
+				type: "item"
+			}]
+			x: -10.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0A7A763A3B324768"]
+			description: ["Using the fertlizer on dirt will create mystical flowers"]
+			id: "0E65A5F607E21532"
+			rewards: [{
+				id: "6FD5AACB72C2F326"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Floral Fertilizer]"
+			tasks: [{
+				id: "20CE633A4F191810"
+				item: "botania:fertilizer"
+				type: "item"
+			}]
+			x: -12.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0E65A5F607E21532"]
+			id: "1F00CC0917B84196"
+			rewards: [{
+				id: "03918530D6941D84"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Obtain &b[Any Mystical Flower]"
+			tasks: [{
+				id: "5B2AFB9BF900527A"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "botania:mystical_flowers"
+					}
+				}
+				title: "Any #botania:mystical_flowers"
+				type: "item"
+			}]
+			title: "Mystical Flowers"
+			x: -14.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1FB65FB848ADBEC9"]
+			description: ["White flowers can be made in the petal apothecary"]
+			id: "65000FC145C78483"
+			rewards: [{
+				id: "62DDF8084546C6A9"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Obtain Or Craft &b[White Mystical Flower]"
+			tasks: [{
+				id: "35D0C0F06EB254FE"
+				item: "botania:white_mystical_flower"
+				type: "item"
+			}]
+			title: "Snow White"
+			x: -17.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"1F00CC0917B84196"
+				"431C5B86993D6C2C"
+			]
+			description: ["Any mystical flowers or petals can be used to make this"]
+			id: "1FB65FB848ADBEC9"
+			rewards: [
+				{
+					id: "605936A10317F1F5"
+					item: "botania:flower_bag"
+					type: "item"
+				}
+				{
+					id: "2FD2945F8BF7887D"
+					item: "opolisutilities:b_bucks"
+					type: "item"
+				}
+			]
+			subtitle: "Craft &b[Petal Apothecary]"
+			tasks: [{
+				id: "76B41C7DA69260AA"
+				item: "botania:apothecary_default"
+				type: "item"
+			}]
+			x: -16.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1FB65FB848ADBEC9"]
+			description: ["Green flowers can be made in the petal apothecary"]
+			id: "0B321B4F25C10EEA"
+			rewards: [{
+				id: "1B6691DBD82EF720"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Obtain Or Craft &b[Green Mystical Flower]"
+			tasks: [{
+				id: "7177EB5EA08A0155"
+				item: "botania:green_mystical_flower"
+				type: "item"
+			}]
+			title: "Ever Green"
+			x: -15.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0B321B4F25C10EEA"]
+			description: ["Made from green mystical flowers"]
+			id: "25C851E476422340"
+			rewards: [{
+				id: "2466B471F973E240"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Obtain &b[Mystical Green Petal]"
+			tasks: [{
+				id: "2959E0B8BAFAFF13"
+				item: "botania:green_petal"
+				type: "item"
+			}]
+			title: "Minty Fresh"
+			x: -14.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["65000FC145C78483"]
+			description: ["Made from white mystical flowers"]
+			id: "7C9B1697039F9CC2"
+			rewards: [{
+				id: "104B900EC8F361C5"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Obtain &b[Mystical White Petals]"
+			tasks: [{
+				id: "504B65DEE07F8718"
+				item: "botania:white_petal"
+				type: "item"
+			}]
+			title: "Snowy Blossoms"
+			x: -18.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"7C9B1697039F9CC2"
+				"2BA4F95925D197B9"
+			]
+			description: ["Magical flower"]
+			id: "54F7E8E08B2F257D"
+			rewards: [
+				{
+					id: "70D8F6653E2EF3B0"
+					item: "botania:lexicon"
+					type: "item"
+				}
+				{
+					id: "601A08B8E275A018"
+					item: "opolisutilities:b_bucks"
+					type: "item"
+				}
+			]
+			subtitle: "Craft &b[Pure Daisy]"
+			tasks: [{
+				id: "2F0A3A835CF5BABF"
+				item: "botania:pure_daisy"
+				type: "item"
+			}]
+			title: "Pure As Snow !"
+			x: -17.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["25C851E476422340"]
+			description: ["Can be used to turn dirt into grass, can effect area around the block"]
+			id: "2E7E063CEE5E40B1"
+			rewards: [{
+				id: "64ED9B872F0F44AF"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Pasture Seeds]"
+			tasks: [{
+				id: "4FC8CAF50A2B4936"
+				item: "botania:grass_seeds"
+				type: "item"
+			}]
+			title: "Haymaker's Mix"
+			x: -13.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"2F2F4D7CCB0D798D"
+				"2E7E063CEE5E40B1"
+			]
+			description: ["Using bone meal on grass will create flowers and grass. Breaking the tall grass blocks has a chance to drop seeds. Seeds caan also be found in the world"]
+			id: "2BA4F95925D197B9"
+			rewards: [{
+				id: "6E04767EC3DC4003"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Obtain &b[Any Seed]"
+			tasks: [{
+				id: "5982FF0F384706D3"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:seeds"
+					}
+				}
+				title: "Any #forge:seeds"
+				type: "item"
+			}]
+			title: "Start Of Every Farm"
+			x: -12.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2E7E063CEE5E40B1"]
+			description: ["Wooden shears can be used to collect grass"]
+			id: "3AA82DE6A0D0990A"
+			rewards: [{
+				id: "4BBFEA264818EBF3"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Obtain &b[Grass]"
+			tasks: [{
+				id: "30F23DA7207E3B2E"
+				item: "minecraft:grass"
+				type: "item"
+			}]
+			x: -15.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["592A2546E920E8A0"]
+			description: ["Just a basic bowl"]
+			hide_dependency_lines: true
+			id: "20F61742E66400DB"
+			rewards: [{
+				id: "176372F33F9C6C08"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Bowl]"
+			tasks: [{
+				id: "6C5EF3DF0E7CD42B"
+				item: "minecraft:bowl"
+				type: "item"
+			}]
+			x: -22.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["20F61742E66400DB"]
+			description: ["Just a bowl of ice"]
+			id: "3759048D473A8729"
+			rewards: [{
+				id: "6D6974158FE3A59D"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Bowl Of Ice]"
+			tasks: [{
+				id: "4C276126DEBC3776"
+				item: "frozenopolis:bowl_of_ice"
+				type: "item"
+			}]
+			x: -20.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3759048D473A8729"]
+			description: ["Using a campfire will melt a bowl of ice into a bowl of water. This bowl can be used to fill the petal apothecary"]
+			id: "431C5B86993D6C2C"
+			rewards: [{
+				id: "7C9D6033E3A3ED09"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Make &b[Bowl Of Water]"
+			tasks: [{
+				id: "65C8FEB32117A5CE"
+				item: {
+					Count: 1b
+					id: "botania:water_bowl"
+					tag: {
+						Fluid: {
+							Amount: 1000
+							FluidName: "minecraft:water"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -18.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["54F7E8E08B2F257D"]
+			description: ["Placing stone around a pure daisy will transform it into living rock"]
+			id: "4153B6425B8CF647"
+			rewards: [{
+				id: "2B445A1CB48A5349"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Obtain &b[Living Rock]"
+			tasks: [{
+				id: "0AD7DD6EB40B855C"
+				item: "botania:livingrock"
+				type: "item"
+			}]
+			title: "It's Alive !"
+			x: -18.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"4153B6425B8CF647"
+				"7B144F7653B0E2DA"
+			]
+			description: ["Can be used to store mana"]
+			id: "1A86E80E9FD37C01"
+			rewards: [{
+				id: "10A39A593EC37994"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Mana Pool]"
+			tasks: [{
+				id: "2BF4D556242854ED"
+				item: "botania:mana_pool"
+				type: "item"
+			}]
+			title: "A Pool For Your Mana"
+			x: -21.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["54F7E8E08B2F257D"]
+			description: ["Placing logs around a pure daisy will transform it into living log"]
+			id: "3C40D6F1FFCAA4EB"
+			rewards: [{
+				id: "549348CB003CECEA"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Obtain &b[Livingwood Log]"
+			tasks: [{
+				id: "1D569C0DC95B2820"
+				item: "botania:livingwood_log"
+				type: "item"
+			}]
+			title: "It's Already Alive ?"
+			x: -15.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3C40D6F1FFCAA4EB"]
+			description: ["Has magical properties"]
+			id: "498F86DA98423E6B"
+			rewards: [{
+				id: "755C40E9CACA8745"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Livingwood Twig]"
+			tasks: [{
+				id: "732917F13246F717"
+				item: "botania:livingwood_twig"
+				type: "item"
+			}]
+			title: "A Piece Of My Heart"
+			x: -14.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["498F86DA98423E6B"]
+			id: "2FFE7C7068F9BC39"
+			rewards: [{
+				id: "3FC4C05C370EB4DC"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Obtain &b[Mana Spreader]"
+			tasks: [{
+				id: "488EC0C4AF968B3B"
+				item: "botania:mana_spreader"
+				type: "item"
+			}]
+			title: "Transferring Mana"
+			x: -13.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["498F86DA98423E6B"]
+			description: ["Used to link mana pools and spreaders together"]
+			id: "574C82266A735166"
+			rewards: [{
+				id: "723DB45162091BC8"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Wand Of The Forest]"
+			tasks: [{
+				id: "233FD5490A37A8A9"
+				item: {
+					Count: 1b
+					id: "botania:twig_wand"
+					tag: {
+						color1: 0
+						color2: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Your Magic Wand"
+			x: -13.5d
+			y: 2.0d
+		}
+		{
+			description: ["Learn The Art of Not Turning Into a Popsicle !"]
+			id: "2B126E93619D8BBD"
+			rewards: [{
+				id: "37D9B2D2FB4EECEB"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			size: 2.0d
+			subtitle: "Read ME!"
+			tasks: [{
+				id: "7A53FD2A2AC195C5"
+				title: "It Starts Here..."
+				type: "checkmark"
+			}]
+			x: -22.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["592A2546E920E8A0"]
+			description: ["used for collecting tall grass and leaves"]
+			id: "43D3252A23BB7C3B"
+			rewards: [{
+				id: "3ECE1DA3546E20F2"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Wooden Shears]"
+			tasks: [{
+				id: "1D0036A329380F56"
+				item: {
+					Count: 1b
+					id: "opolisutilities:wooden_shears"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Makeshift Scissors"
+			x: -17.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["57E386E432643398"]
+			description: ["Provides some protection against the cold"]
+			id: "67EACD3C832D5221"
+			rewards: [{
+				id: "27223873BC10B6AA"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Leafy Armor Set]"
+			tasks: [
+				{
+					id: "03FA889EB1AF6BD8"
+					item: {
+						Count: 1b
+						id: "toughasnails:leaf_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "64B22A291F78FE30"
+					item: {
+						Count: 1b
+						id: "toughasnails:leaf_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "56C116CC6599192B"
+					item: {
+						Count: 1b
+						id: "toughasnails:leaf_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "554E6B7931630D89"
+					item: {
+						Count: 1b
+						id: "toughasnails:leaf_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Leafy Armor"
+			x: -15.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["43D3252A23BB7C3B"]
+			id: "57E386E432643398"
+			rewards: [{
+				id: "1ADD0BCCF03E0B7F"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Collect &b[Leaves]"
+			tasks: [{
+				id: "4927C7DF48DD9033"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:leaves"
+					}
+				}
+				title: "Any #minecraft:leaves"
+				type: "item"
+			}]
+			title: "Tree Barber"
+			x: -16.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["57E386E432643398"]
+			id: "0BFF39C61AC26AC9"
+			rewards: [{
+				id: "1C1449F793267676"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Obtain &b[Vines]"
+			tasks: [{
+				id: "777C2C5863B13713"
+				item: "minecraft:vine"
+				type: "item"
+			}]
+			title: "Organic Fiber"
+			x: -15.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["0BFF39C61AC26AC9"]
+			id: "6E2D8468D2A14CD1"
+			rewards: [{
+				id: "700F759628A554CD"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Leafy String]"
+			tasks: [{
+				id: "57D104B0FBF03B41"
+				item: "opolisutilities:leafy_string"
+				type: "item"
+			}]
+			x: -14.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["6E2D8468D2A14CD1"]
+			id: "48208E01AB64440F"
+			rewards: [{
+				id: "5A2B53121954DBDB"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft Any &b[Bed]"
+			tasks: [{
+				id: "45C8564EC14E30F5"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:beds"
+					}
+				}
+				title: "Any #minecraft:beds"
+				type: "item"
+			}]
+			title: "Comfy Sleeping"
+			x: -13.0d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"7C9B1697039F9CC2"
+				"54F7E8E08B2F257D"
+			]
+			id: "7B144F7653B0E2DA"
+			rewards: [{
+				id: "7B1B650BE763F4A9"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			subtitle: "Craft &b[Glaciflora]"
+			tasks: [{
+				id: "6EE00E15E8F9E35B"
+				item: "botanicadds:flowers/glaciflora"
+				type: "item"
+			}]
+			title: "Freezin' Cold"
+			x: -20.0d
+			y: 0.5d
+		}
+	]
+	subtitle: ["Adventures in the Wintery Wilds"]
+	title: "&l&bSubzero:&r Frost And Found"
+}

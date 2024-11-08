@@ -1,0 +1,6 @@
+{
+	// The amount of time in ms the mob hit will be frozen for.
+	// min: 0, max: 3600000
+	// 10000 ms = 10s (?)
+	"freezeTimeMs": 10000
+}

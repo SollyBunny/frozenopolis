@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "north": "frozenopolis:block/weather_changer_side",
+    "east": "frozenopolis:block/weather_changer_side",
+    "south": "frozenopolis:block/weather_changer_side",
+    "west": "frozenopolis:block/weather_changer_side",
+    "up": "frozenopolis:block/weather_changer_top",
+    "down": "frozenopolis:block/weather_changer_top",
+    "particle": "frozenopolis:block/weather_changer_side"
+  }
+}
