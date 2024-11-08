@@ -3,4 +3,6 @@
 # Add custom JVM arguments to the user_jvm_args.txt
 # Add custom program arguments {such as nogui} to this file in the next line before the "$@" or
 #  pass them to this script directly
-java @user_jvm_args.txt @libraries/net/minecraftforge/forge/1.19.2-43.4.0/unix_args.txt nogui "$@"
+JAVA=/usr/bin/java
+sudo setcap 'cap_net_bind_service=+ep' $JAVA
+$JAVA @user_jvm_args.txt @libraries/net/minecraftforge/forge/1.19.2-43.4.0/unix_args.txt nogui "$@"

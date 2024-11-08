@@ -67,7 +67,7 @@ tutorialStep:find_tree
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
 joinedFirstServer:false
@@ -150,8 +150,8 @@ key_key.ftbchunks.minimap.zoomOut:key.keyboard.minus
 key_key.ftbchunks.add_waypoint:key.keyboard.unknown
 key_key.ftbchunks.waypoint_manager:key.keyboard.unknown
 key_key.ftbquests.quests:key.keyboard.unknown
-key_key.inventorysorter.sort:key.mouse.middle
 key_key.inventorysorter.itemin:key.mouse.100
+key_key.inventorysorter.sort:key.mouse.middle
 key_key.inventorysorter.itemout:key.mouse.102
 key_keybind.sophisticatedstorage.sort:key.mouse.middle
 key_key.elementalcraft.change_spell.1:key.keyboard.1:SHIFT
@@ -221,8 +221,8 @@ key_key.refinedstorageaddons.openWirelessCraftingGrid:key.keyboard.g:CONTROL
 key_key.open_muffler_gui:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_gui.xaero_pac_key_open_menu:key.keyboard.apostrophe
-soundCategory_master:0.18675461
-soundCategory_music:1.0
+soundCategory_master:0.098084174
+soundCategory_music:0.14867893
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

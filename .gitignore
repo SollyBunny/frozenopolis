@@ -17,3 +17,5 @@ minecraft/local
 minecraft/Xaero*
 minecraft/config/*/logs
 instance.cfg
+minecraft/servers.dat_old
+minecraft/fancymenu_data/last_world.fmdata

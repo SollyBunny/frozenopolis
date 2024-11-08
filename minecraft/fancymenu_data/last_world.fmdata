@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = /home/solly/.local/share/PrismLauncher/instances/Frozenopolis/minecraft/saves/New World
-}
-
