@@ -15,4 +15,5 @@ minecraft/*.log*
 minecraft/*cache*
 minecraft/local
 minecraft/Xaero*
+minecraft/config/*/logs
 instance.cfg
