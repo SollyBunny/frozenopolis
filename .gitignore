@@ -1,3 +1,7 @@
+minecraft/schematics
+minecraft/screenshots
+minecraft/server-resource-packs
+minecraft/crash-reports
 minecraft/banned-ips.json
 minecraft/banned-players.json
 minecraft/ops.json
@@ -6,3 +10,8 @@ minecraft/whitelist.json
 minecraft/world
 minecraft/saves
 minecraft/logs
+minecraft/hs_err*
+minecraft/*.log*
+minecraft/*cache*
+minecraft/local
+minecraft/Xaero*
